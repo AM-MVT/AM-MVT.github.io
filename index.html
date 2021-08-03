@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marine Validator Tool</title>
+    
+    <!-- Leaflet codes -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+    
+    <!-- Chart JS Code -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Style Sheets -->
+    <link rel="stylesheet" href="style/validatorhomelayout.css"/>
+    <link rel="stylesheet" href="style/validatorglobaldesign.css"/>
+    <link rel="stylesheet" href="style/validatornavlayout.css"/>
+   
+    <!-- Scripts -->
+    <script src="scripts\validator.home.js"></script>
+    <script src="scripts\validator.global.js"></script>
+</head>
+<body> 
+	<div id="side-panel" class="nav generic-style-nav">
+        <ul id="side-nav">
+            <li>
+                <a href="#" onclick="hfold(document.getElementById('menu-toggle'))">Home</a>
+            </li>
+            <li>
+                <a href="marinevalidator.html">Marine Validator</a>
+            </li>
+            <li>
+                <a href="marineworkorders.html">Marine Work Orders</a>
+            </li>
+            <li>
+                <a href="validatorstandards.html">Validator Standards</a>
+            </li>
+        </ul>
+	</div>
+	<div class="topMenuTitle">
+		<div id="menu-toggle" class="generic-style hmenu" onclick="hfold(this)">
+	    	<span class="nav-flip-out-1"></span>
+	    	<span class="nav-flip-out-2"></span>
+	    	<span class="nav-flip-out-3"></span>
+	    </div>
+	    <h1 class="generic-style nationaltitle">Marine Validator Tool</h1>
+	</div>
+    <div class="main-content">
+        <div id="mainView" class="mainmap generic-style">
+            
+        </div>
+        <div  class="generic-container"  style="overflow: hidden;">
+        	<h1 class="generic-style-header">Buoys</h1>
+        	<div id="stationslist" class="generic-style--no-border">
+        	
+        	</div>
+        </div>
+        <div id="historyGraph" class="generic-container">
+        	<h1 class="generic-style-header">Monthly Change</h1>
+        	<div id="test_container">
+        		<canvas id="histchart" width="auto" height="auto">
+        	
+        		</canvas>
+        	</div>
+        </div>
+        <div id="bottomStats" class="generic-style">
+        	<h1></h1>
+        </div>
+    </div>
+    <div class="special-notes generic-style">
+        <p>The edits will update next business day. Contact the Marine Standard Officer if there is an error.</p>
+    </div>
+</body>
+</html>

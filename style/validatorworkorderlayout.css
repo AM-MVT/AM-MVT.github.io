@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.main-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "workorder workorder workorder workorder";
+}
+
+.work-order{
+    grid-area: workorder;
+    height: 100vh;
+}
+
+
+.fail{
+    color: red;
+}
+
+.pass{
+    color: green;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marine Validator Tool</title>
+
+    <!-- Style sheets for website-->
+    <link rel="stylesheet" href="style/validatorglobaldesign.css" />
+    <link rel="stylesheet" href="style/validatornavlayout.css" />
+    <link rel="stylesheet" href="style/validatorworkorderlayout.css" />
+
+    <!-- JavaScript for website-->
+    <script src="scripts/validator.global.js"></script>
+    <script src="scripts/validator.workorder.js"></script>
+</head>
+
+<body>
+    <div id="side-panel" class="nav generic-style-nav">
+        <ul id="side-nav">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="marinevalidator.html">Marine Validator</a>
+            </li>
+            <li>
+                <a href="#" onclick="hfold(document.getElementById('menu-toggle'))">Marine Work Orders</a>
+            </li>
+            <li>
+                <a href="validatorstandards.html">Validator Standards</a>
+            </li>
+        </ul>
+    </div>
+    <div class="topMenuTitle">
+        <div id="menu-toggle" class="generic-style hmenu" onclick="hfold(this)">
+            <span class="nav-flip-out-1"></span>
+            <span class="nav-flip-out-2"></span>
+            <span class="nav-flip-out-3"></span>
+        </div>
+        <h1 class="generic-style nationaltitle">Work Orders</h1>
+    </div>
+    <div class="main-content">
+        <div class="generic-container work-order">
+            <h1 class="generic-style-header">Marine Work Orders</h1>
+            <div class="generic-style--no-border work-order--table">
+                <table id="workOrderTable" class="generic-datatable">
+                    <tr>
+                        <th>Work Order Number</th>
+                        <th>Order Type</th>
+                        <th>Description</th>
+                        <th>Confirmations Codes System</th>
+                        <th>Confirmations Codes User</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                        <th>Work Order Center</th>
+                        <th>Status</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+    </div>
+    <div class="special-notes generic-style">
+        <p> The edits will update next business day. Please contact the Marine Standard Officer to update the standards if you notice any problems.</p>
+    </div>
+</body>
+
+</html>

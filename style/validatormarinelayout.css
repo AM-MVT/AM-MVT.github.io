@@ -1,0 +1,126 @@
+@charset "ISO-8859-1";
+
+.topMenuTitle {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.nationaltitle{
+	flex-grow: 1;
+}
+
+.main-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: "searchbar searchbar searchbar searchbutton"
+    "stationinfo stationinfo stationinfo stationinfo"
+    "content content content content";
+}
+
+/* Selection Form Setup*/
+.selectionForm{
+    display: contents;
+    grid-column: 1/4;
+    grid-row: 1;
+}
+
+.selectionForm input[type=text]{
+    grid-area: searchbar;
+}
+
+.selectionForm button{
+    grid-area: searchbutton;
+}
+
+.stationInfo{
+	grid-area: stationinfo;
+	width: 100%;
+}
+
+#stationInfoText{
+	width: 100%;
+}
+.floc-content{
+    grid-area: content;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: "flocstruct flocstruct flocstruct characteristics characteristics"
+    "workorder workorder workorder notes notes"
+    "sup-info sup-info sup-info sup-info sup-info";
+    /*gap: 10px 10px;*/
+}
+
+.floc-structure{
+    grid-area: flocstruct;
+    min-height: 50vh;
+}
+
+.char-valid{
+    grid-area: characteristics;
+    max-height: 600px;
+}
+.workorder-valid{
+    grid-area: workorder;
+    max-height: 50vh;
+}
+
+.notes-valid{
+    grid-area: notes;
+    overflow-y: auto;
+    max-height: 50vh;
+}
+
+.floc-tree{
+    list-style-type: none;
+}
+
+.floc-tree ul{
+    list-style-type: none;
+}
+
+.floc-tree li{
+    list-style-type: none;
+    padding: 5px;
+}
+
+#inputbutton{
+    cursor: pointer;
+}
+
+.drop-down{
+    cursor: pointer;
+}
+
+.drop-down::before{
+    content: "+";
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.drop-down-rotate::before{
+    content: "-";
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.fail{
+    color: red;
+}
+
+.pass{
+    color: green;
+}
+
+.closed{
+    display: none;
+}
+.open{
+    display: block; 
+}
+
+.special-notes{
+	grid-area: sup-info;
+}

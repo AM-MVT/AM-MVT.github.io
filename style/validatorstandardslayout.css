@@ -1,0 +1,80 @@
+@charset "ISO-8859-1";
+
+.main-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "standard standard attachmentcount material"
+    "attachmenthierarchy attachmenthierarchy attachmentcount material"
+    "attachmentcombination attachmentcombination attachmentcount material"
+}
+
+.standards{
+    grid-area: standard;
+    display: flex;
+    flex-shrink: 1;
+}
+
+.materialnum{
+    grid-area: material;
+}
+
+.attachment-hierarchy{
+    grid-area: attachmenthierarchy;
+}
+
+.attachment-count{
+    grid-area: attachmentcount;
+}
+
+.attachment-combinations {
+    grid-area: attachmentcombination;
+}
+
+.drop-down-button{
+    background-color: white;
+    border: none;
+}
+
+.standard-flipdown{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 5px;
+}
+ 
+.standard-flipdown::after{
+    content: '▼';
+}
+
+.drop-down-list {
+    position: relative;
+    list-style: none;
+    z-index: 1;
+    padding: 0;
+    background-color: white;
+}
+
+.drop-down-list li{
+    margin: 10px;
+}
+
+.drop-down-list-further{
+    width: 100%;
+    position: absolute;
+    list-style: none;
+    padding: 0;
+    background-color: white;
+    box-shadow: 0px 4px 10px 0px rgb(49, 49, 49, .5);
+}
+.drop-down-list-further li {
+    display: block;
+}
+
+.drop-down-list-further li:hover{
+    cursor: pointer;
+}
+
+.closed{
+    display: none;
+}

@@ -1,0 +1,722 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.9538,
+                45.445
+            ]
+        },
+        "properties": {
+            "WMOID": "4400488",
+            "Name": "EAST CHEDABUCTO BAY",
+            "Buoy Type": "OPP_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.141,
+                45.48687
+            ]
+        },
+        "properties": {
+            "WMOID": "4400489",
+            "Name": "WEST CHEDABUCTO BAY",
+            "Buoy Type": "OPP_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66.3686,
+                44.66056
+            ]
+        },
+        "properties": {
+            "WMOID": "4400490",
+            "Name": "WEST BAY OF FUNDY",
+            "Buoy Type": "OPP_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.998518,
+                42.26126
+            ]
+        },
+        "properties": {
+            "WMOID": "44137",
+            "Name": "EAST SCOTIA SLOPE",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.1033333,
+                44.24
+            ]
+        },
+        "properties": {
+            "WMOID": "44139",
+            "Name": "BANQUEREAU BANK",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.018,
+                42.505
+            ]
+        },
+        "properties": {
+            "WMOID": "44150",
+            "Name": "LA HAVE BANK",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63.403,
+                44.502
+            ]
+        },
+        "properties": {
+            "WMOID": "44258",
+            "Name": "HALIFAX HARBOUR",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81.2157,
+                42.4633
+            ]
+        },
+        "properties": {
+            "WMOID": "45132",
+            "Name": "PORT STANLEY",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.86778,
+                43.78444
+            ]
+        },
+        "properties": {
+            "WMOID": "45135",
+            "Name": "PRINCE EDWARD PT",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -86.9527,
+                48.535
+            ]
+        },
+        "properties": {
+            "WMOID": "45136",
+            "Name": "SLATE ISLAND",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81.015,
+                45.544
+            ]
+        },
+        "properties": {
+            "WMOID": "45137",
+            "Name": "NORTH GEORGIAN BAY",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.706629,
+                49.538256
+            ]
+        },
+        "properties": {
+            "WMOID": "45138",
+            "Name": "MONT LOUIS (QUEBEC)",
+            "Buoy Type": "default",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -79.53417,
+                43.25139
+            ]
+        },
+        "properties": {
+            "WMOID": "45139",
+            "Name": "WEST LAKE ONTARIO",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -96.733,
+                50.8
+            ]
+        },
+        "properties": {
+            "WMOID": "45140",
+            "Name": "LAKE WINNIPEG S. BASIN",
+            "Buoy Type": "WK_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -115.314,
+                61.181
+            ]
+        },
+        "properties": {
+            "WMOID": "45141",
+            "Name": "GREAT SLAVE LAKE",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -79.289857,
+                42.73671
+            ]
+        },
+        "properties": {
+            "WMOID": "45142",
+            "Name": "PORT COLBORNE",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80.626773,
+                44.944873
+            ]
+        },
+        "properties": {
+            "WMOID": "45143",
+            "Name": "SOUTH GEORGIAN BAY",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -98.29,
+                53.23
+            ]
+        },
+        "properties": {
+            "WMOID": "45144",
+            "Name": "LAKE WINNIPEG N.",
+            "Buoy Type": "default",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -96.97,
+                51.87
+            ]
+        },
+        "properties": {
+            "WMOID": "45145",
+            "Name": "LAKE WINNIPEG NARROWS",
+            "Buoy Type": "WK_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -82.683,
+                42.43
+            ]
+        },
+        "properties": {
+            "WMOID": "45147",
+            "Name": "LAKE ST. CLAIR",
+            "Buoy Type": "default",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -94.5019444,
+                49.651111
+            ]
+        },
+        "properties": {
+            "WMOID": "45148",
+            "Name": "LAKE OF THE WOODS",
+            "Buoy Type": "WK_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -82.075,
+                43.542
+            ]
+        },
+        "properties": {
+            "WMOID": "45149",
+            "Name": "SOUTHERN LAKE HURON(BAYFIELD)",
+            "Buoy Type": "WK_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -114.129,
+                61.98
+            ]
+        },
+        "properties": {
+            "WMOID": "45150",
+            "Name": "GT. SLAVE LK N. ARM",
+            "Buoy Type": "WK_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -79.36667,
+                44.500417
+            ]
+        },
+        "properties": {
+            "WMOID": "45151",
+            "Name": "LAKE SIMCOE",
+            "Buoy Type": "default",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -79.715501,
+                46.232958
+            ]
+        },
+        "properties": {
+            "WMOID": "45152",
+            "Name": "LAKE NIPISSING",
+            "Buoy Type": "WK_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -82.637256,
+                46.05071
+            ]
+        },
+        "properties": {
+            "WMOID": "45154",
+            "Name": "NORTH CHANNEL EAST",
+            "Buoy Type": "WK_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78.983611,
+                43.766667
+            ]
+        },
+        "properties": {
+            "WMOID": "45159",
+            "Name": "NW LAKE ONTARIO AJAX",
+            "Buoy Type": "3M_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.43,
+                49.025
+            ]
+        },
+        "properties": {
+            "WMOID": "4600303",
+            "Name": "SOUTHERN GEORGIA STRAIT",
+            "Buoy Type": "OPP_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.357,
+                49.30167
+            ]
+        },
+        "properties": {
+            "WMOID": "4600304",
+            "Name": "ENTRANCE TO ENGLISH BAY",
+            "Buoy Type": "OPP_WM500",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -136.095,
+                50.93
+            ]
+        },
+        "properties": {
+            "WMOID": "46004",
+            "Name": "MIDDLE NOMAD",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -133.938,
+                48.355
+            ]
+        },
+        "properties": {
+            "WMOID": "46036",
+            "Name": "SOUTH NOMAD",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -124.985,
+                49.906
+            ]
+        },
+        "properties": {
+            "WMOID": "46131",
+            "Name": "SENTRY SHOAL",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -127.888928,
+                49.775422
+            ]
+        },
+        "properties": {
+            "WMOID": "46132",
+            "Name": "SOUTH BROOKS",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -132.443889,
+                54.366
+            ]
+        },
+        "properties": {
+            "WMOID": "46145",
+            "Name": "CENTRAL DIXON ENTRANCE",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.727,
+                49.34
+            ]
+        },
+        "properties": {
+            "WMOID": "46146",
+            "Name": "HALIBUT BANK",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -131.225,
+                51.828
+            ]
+        },
+        "properties": {
+            "WMOID": "46147",
+            "Name": "SOUTH MORESBY",
+            "Buoy Type": "default",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -128.831,
+                53.833
+            ]
+        },
+        "properties": {
+            "WMOID": "46181",
+            "Name": "NANAKWA SHOAL",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -131.105,
+                53.617
+            ]
+        },
+        "properties": {
+            "WMOID": "46183",
+            "Name": "NORTH HECATE STRAIT",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -138.85,
+                53.915
+            ]
+        },
+        "properties": {
+            "WMOID": "46184",
+            "Name": "NORTH NOMAD",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -129.792,
+                52.425
+            ]
+        },
+        "properties": {
+            "WMOID": "46185",
+            "Name": "SOUTH HECATE STRAIT",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -128.767,
+                51.384
+            ]
+        },
+        "properties": {
+            "WMOID": "46204",
+            "Name": "WEST SEA OTTER",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -134.323055,
+                54.185
+            ]
+        },
+        "properties": {
+            "WMOID": "46205",
+            "Name": "WEST DIXON ENTRANCE",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -125.998,
+                48.835
+            ]
+        },
+        "properties": {
+            "WMOID": "46206",
+            "Name": "LA PEROUSE BANK",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -129.916,
+                50.874
+            ]
+        },
+        "properties": {
+            "WMOID": "46207",
+            "Name": "EAST DELLWOOD",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -132.693,
+                52.515
+            ]
+        },
+        "properties": {
+            "WMOID": "46208",
+            "Name": "WEST MORESBY",
+            "Buoy Type": "3M_WM100",
+            "Valid": false
+        }
+    }
+]

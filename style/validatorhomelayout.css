@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.main-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 350px 350px min-content;
+    grid-template-areas: "main-map main-map main-map station"
+    "main-map main-map main-map graph"
+    "statistics statistics statistics statistics";
+}
+
+.mainmap{
+	grid-area: main-map;
+}
+
+#stationslist{
+	grid-area: station;
+	overflow-y: scroll;
+	max-height: 350px;
+}
+
+#historyGraph{
+	grid-area: graph;
+}
+
+#bottomStats{
+	grid-area: statistics;
+	
+}
+
+#test_container{
+	flex-grow: 1;
+}

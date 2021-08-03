@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marine Validator Tool</title>
+    
+    
+    <!-- Style Sheets -->
+    <link rel="stylesheet" href="style/validatormarinelayout.css"/>
+    <link rel="stylesheet" href="style/validatorglobaldesign.css"/>
+    <link rel="stylesheet" href="style/validatornavlayout.css"/>
+   
+   <!-- Scripts -->
+   <script src="scripts/validator.marine.js"></script>
+   <script src="scripts/validator.global.js"></script>
+   
+</head>
+<body>
+	<div id="side-panel" class="nav generic-style-nav">
+        <ul id="side-nav">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="#" onclick="hfold(document.getElementById('menu-toggle'))">Marine Validator</a>
+            </li>
+            <li>
+                <a href="marineworkorders.html">Marine Work Orders</a>
+            </li>
+            <li>
+                <a href="validatorstandards.html">Validator Standards</a>
+            </li>
+        </ul>
+	</div>
+	<div class="topMenuTitle">
+		<div id="menu-toggle" class="generic-style hmenu" onclick="hfold(this)">
+	    	<span class="nav-flip-out-1"></span>
+	    	<span class="nav-flip-out-2"></span>
+	    	<span class="nav-flip-out-3"></span>
+	    </div>
+	    <h1 class="generic-style nationaltitle">Marine Metadata Validator</h1>
+	</div>
+    <div class="main-content">
+        <div class="selectionForm">
+            <input id="inputtext" class="generic-style-highlight" type="text" placeholder="Enter Floc or WMOID">
+            <button id="inputbutton" class="generic-style-highlight" onclick="search()">Search</button>
+        </div>
+        <div class="stationInfo"><h2 id="stationInfoText" class="generic-style"></h2></div>
+        <div class="floc-content">
+            <div class="floc-structure generic-container">
+                <h1 id="floc-title" class="generic-style-header">Floc Structure</h1>
+                <div class="generic-style--no-border">
+                	<ul id="floc_struct" class="floc-tree">
+                    	<li><span class="drop-down">07-BOUY-XX-Example</span></li>
+                	</ul>
+                </div>
+            </div>
+            
+            <div class="char-valid generic-container">
+                <h1 class="generic-style-header">Characteristic Validation</h1>
+                <div class="generic-style--no-border">
+                <table id="characteristicTable" class="generic-datatable">
+                    <tr>
+                        <th>Characteristic</th>
+                        <th>Value</th>
+                        <th>Status</th>
+                    </tr>
+                </table>
+                </div>
+            </div>
+            <div class="workorder-valid generic-container">
+                <h1 class="generic-style-header">Work Order Validation</h1>
+                <div class="generic-style--no-border">
+                <table id="workOrderTable" class="generic-datatable">
+                    <tr>
+                        <th>Work Order Number</th>
+                        <th>Order Type</th>
+                        <th>Description</th>
+                        <th>Confirmations Codes System</th>
+                        <th>Confirmations Codes User</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                        <th>Work Order Center</th>
+                        <th>Status</th>
+                    </tr>
+                </table>
+                </div>
+            </div>
+            
+            <div class="notes-valid generic-container">
+            	<h1 class="generic-style-header">Validator Notes</h1>
+            	<div id="validation-notes" class="generic-style--no-border">
+                <p><p>
+                </div>
+            </div>
+            <div class="special-notes generic-style">
+            	<p>The work orders shown on this page are a subset from the work orders page.</p>
+                <p>Please review station metadata. The edits will update next business day. Contact the Marine Standard Officer if there is an error.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

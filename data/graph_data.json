@@ -1,0 +1,41 @@
+[{
+    "type": "line",
+    "data": {
+      "labels": ["June", "July"],
+      "datasets": [{
+        "label": "Metadata Completeness",
+        "data": [0,0],
+        "lineTension": 0,
+        "fill": false,
+        "backgroundColor": "#e15759",
+        "borderColor": "#e15759"
+      }
+      ]
+    },
+    "options": {
+      "responsive": true,
+      "maintainAspectRatio": false,
+      "scales": {
+        "y": {
+          "ticks": {
+            "max": 100
+          },
+          "title": {
+            "display": true,
+            "text": "Percent Complete"
+          }
+        },
+        "x": {
+          "title": {
+            "display": true,
+            "text": "Months"
+          }
+        }
+      },
+      "plugins": {
+        "legend": {
+          "position": "bottom"
+        }
+      }
+    }
+  }]
