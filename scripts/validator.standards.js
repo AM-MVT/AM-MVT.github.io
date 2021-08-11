@@ -70,7 +70,7 @@ function load_standard(standard) {
   }
 
   for (const [key, val] of Object.entries(main_standard["attachment_combination"])){
-    temp_attach_combinations += "<li>" + key + " - " + material_number_map[key] + '<ul>';
+    temp_attach_combinations += "<li>" + key + " - " + technical_object_map[key] + '<ul>';
     count = 1;
     for (multiple_val of val["different_sensors"]){
       temp_attach_combinations += "<li>" + "Sensor " + count + '<ul>';
