@@ -67,23 +67,7 @@
       "7300000381",
       "7300000313"
     ],
-    "attachment_combination": {
-      "E5450": {
-        "different_sensors": [
-          [
-            "7300000302",
-            "7300000303"
-          ],
-          [
-            "7300000302",
-            "7300000303",
-            "7300000369",
-            "7300000368"
-          ]
-        ],
-        "attached": []
-      }
-    }
+    "attachment_combination": {}
   },
   "3M_WM500": {
     "attachment_count": {

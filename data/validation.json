@@ -16156,8 +16156,7 @@
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2.",
-                "ERROR (Combination Violation): 7300000303, 7300000369, 7300000303 is an invalid combination per the standard."
+                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": [
@@ -16539,8 +16538,7 @@
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2.",
-                "ERROR (Combination Violation): 7300000368 is an invalid combination per the standard."
+                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": [
@@ -19077,8 +19075,7 @@
         "notes": {
             "Functional Location Structure": [
                 "ERROR (Count Violation): Currently 0 E5020 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2.",
-                "ERROR (Combination Violation): 7300000368 is an invalid combination per the standard."
+                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": [
@@ -20446,8 +20443,7 @@
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2.",
-                "ERROR (Combination Violation): 7300000368 is an invalid combination per the standard."
+                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": [
@@ -20932,8 +20928,7 @@
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2.",
-                "ERROR (Combination Violation): 7300000368, 7300000303, 7300000303 is an invalid combination per the standard."
+                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": [
