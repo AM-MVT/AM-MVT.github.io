@@ -44,7 +44,7 @@
 }
  
 .standard-flipdown::after{
-    content: '▼';
+    content: '\25BC';
 }
 
 .drop-down-list {

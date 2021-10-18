@@ -66,7 +66,7 @@
 
 .open-nav{
 	transform: none;
-	box-shadow: 2px 4px 10px 0 rgb(49, 49, 49, .5), 2px 6px 20px 0 rgba(49, 49, 49, .5);	
+	box-shadow: 2px 4px 10px 0 rgba(49, 49, 49, 0.5), 2px 6px 20px 0 rgba(49, 49, 49, .5);
 }
 
 .hmenu:hover{

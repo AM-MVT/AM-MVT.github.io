@@ -67,7 +67,7 @@ function loadMap() {
       }).addTo(mymap);
       temp_text = '';
       for (var i = 0; i < data.length; i++) {
-        temp_text += '<p class=\"genericstyle\">WMOID: ' + data[i].properties['WMOID'] + ' Standard:' + data[i].properties['Buoy Type'] + '</p>';
+        temp_text += '<p class=\"genericstyle\">WMOID: ' + data[i].properties['WMOID'] + ' Standard: ' + data[i].properties['Buoy Type'] + '</p>';
       }
       document.getElementById('stationslist').innerHTML += temp_text;
       return data
@@ -90,7 +90,8 @@ function loadMap() {
     .then(data => {
       overall_stats = data;
       var total_complete = overall_stats["Total Buoys"] - overall_stats["Total Failures"];
-  document.getElementById("bottomStats").innerHTML = "<h1>Total Completion: " + total_complete + "/" + overall_stats["Total Buoys"] + "&emsp;Total Buoy Notes: " + overall_stats["Total Buoy Notes"] + "&emsp;Total Work Order Issues: " + overall_stats["Total Work Order Issues"];
+      var total_floc_complete = overall_stats["Total Buoys"] - overall_stats["Total Floc Failures"];
+  document.getElementById("bottomStats").innerHTML = "<h1>Total Completion: " + total_complete + "/" + overall_stats["Total Buoys"] + "&emsp; Flocs Complete: "+ total_floc_complete+ "/"+ overall_stats["Total Buoys"]+"&emsp;Total Buoy Notes: " + overall_stats["Total Buoy Notes"] + "&emsp;Total Work Order Issues: " + overall_stats["Total Work Order Issues"];
       return data
     });
 }
