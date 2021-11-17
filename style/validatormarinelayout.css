@@ -82,6 +82,7 @@
 
 .floc-tree{
     list-style-type: none;
+    padding-left: 0px;
 }
 
 .floc-tree ul{
