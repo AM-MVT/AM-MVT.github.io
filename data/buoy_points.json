@@ -12,8 +12,8 @@
             "WMOID": "4400488",
             "Name": "EAST CHEDABUCTO BAY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false,
-            "_flocstruct": false,
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
@@ -32,7 +32,7 @@
             "Name": "WEST CHEDABUCTO BAY",
             "Buoy Type": "OPP_WM500",
             "Valid": false,
-            "_flocstruct": false,
+            "_flocstruct": true,
             "_characteristic": false,
             "_workorder": true
         }

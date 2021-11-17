@@ -6,7 +6,7 @@
         "buoy_lat": "45.445",
         "buoy_long": "-60.9538",
         "buoy_type": "OPP_WM500",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-4400488",
             "tech": "F0155",
@@ -459,9 +459,7 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5090 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": []
         }
@@ -926,9 +924,7 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5090 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [
                 "Invalid Characteristics: STATIC LOAD (kg) is not valid."
             ],
@@ -1344,8 +1340,7 @@
                 "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192196 (E5125) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192202 (E5385) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192206 (E5140) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192207 (E5140) violates standard attachment structure.",
-                "ERROR (Count Violation): Currently 0 E5090 are attached. Per standard there should be 1."
+                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192207 (E5140) violates standard attachment structure."
             ],
             "Characteristics": [
                 "Invalid Characteristics: STATIC LOAD (kg) is not valid."
@@ -13101,7 +13096,6 @@
                 "ERROR (Hierarchy Violation): 20195012 (E5010) -> 20192254 (E5385) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20195012 (E5010) -> 20192258 (E5140) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20195012 (E5010) -> 20192259 (E5140) violates standard attachment structure.",
-                "ERROR (Count Violation): Currently 0 E5090 are attached. Per standard there should be 1.",
                 "ERROR (Count Violation): Currently 1 E5125 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
@@ -13505,8 +13499,7 @@
                 "ERROR (Hierarchy Violation): 20196096 (E5010) -> 20192299 (E5125) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20196096 (E5010) -> 20192305 (E5385) violates standard attachment structure.",
                 "ERROR (Hierarchy Violation): 20196096 (E5010) -> 20192309 (E5140) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20196096 (E5010) -> 20192310 (E5140) violates standard attachment structure.",
-                "ERROR (Count Violation): Currently 0 E5090 are attached. Per standard there should be 1."
+                "ERROR (Hierarchy Violation): 20196096 (E5010) -> 20192310 (E5140) violates standard attachment structure."
             ],
             "Characteristics": [],
             "Work Orders": []
