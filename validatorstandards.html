@@ -4,8 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marine Validator Tool</title>
+    <title>Metadata Validator Tool</title>
+    <!-- Third Party Libraries - Please see footer for more information. (https://am-mvt.github.io/info.html) -->
 
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
+
+    <!-- Website Files -->
     <!-- Style sheets for website-->
     <link rel="stylesheet" href="style/validatorglobaldesign.css" />
     <link rel="stylesheet" href="style/validatornavlayout.css" />
@@ -17,31 +22,28 @@
 </head>
 
 <body>
-    <div id="side-panel" class="nav generic-style-nav">
-        <ul id="side-nav">
-            <li>
-                <a href="index.html">Home</a>
-            </li>
-            <li>
-                <a href="marinevalidator.html">Marine Validator</a>
-            </li>
-            <li>
-                <a href="marineworkorders.html">Marine Work Orders</a>
-            </li>
-            <li>
-                <a href="#" onclick="hfold(document.getElementById('menu-toggle'))">Validator Standards</a>
-            </li>
-        </ul>
-    </div>
-    <div class="topMenuTitle">
-        <div id="menu-toggle" class="generic-style hmenu" onclick="hfold(this)">
-            <span class="nav-flip-out-1"></span>
-            <span class="nav-flip-out-2"></span>
-            <span class="nav-flip-out-3"></span>
+    <div class="navigation-bar">
+        <div class="navigation-bar__icon navigation-bar__home">
+            <a href="index.html" class="navigation-bar__image"><span class="bi bi-house-fill" style="font-size: 20px; color: #E7ECEF"/></a>
+            <h2 class="navigation-bar__text">Home</h2>
         </div>
-        <h1 class="generic-style nationaltitle">Buoy Structure Standards</h1>
+        <div class="navigation-bar__icon navigation-bar__stations">
+            <a href="marinevalidator.html" class="navigation-bar__image"><span class="bi bi-wrench" style="font-size: 20px; color: #E7ECEF"/></a>
+            <h2 class="navigation-bar__text">Buoys</h2>
+        </div>
+        <div class="navigation-bar__icon navigation-bar__work-orders">
+            <a href="marineworkorders.html" class="navigation-bar__image"><span class="bi bi-hammer" style="font-size: 20px; color: #E7ECEF"/></a>
+            <h2 class="navigation-bar__text">Work Orders</h2>
+        </div>
+        <div class="navigation-bar__icon navigation-bar__standards">
+            <a href="#" class="navigation-bar__image"><span class="bi bi-gear" style="font-size: 20px; color: #E7ECEF"/></a>
+            <h2 class="navigation-bar__text">Standards</h2>
+        </div>
     </div>
-    <div class="main-content">
+    <div class="content-container">
+        <div class="top-title">
+            <h1 class="nationaltitle">Buoy Structure Standards</h1>
+        </div>
         <div class="generic-style standards">
             <div class="buoy_selection">
                 <ul class="drop-down-list">
@@ -59,32 +61,37 @@
             </div>
         </div>
         <div class="generic-container materialnum">
-            <h1 class="generic-style-header">Material Numbers</h1>
+            <h1 class="">Material Numbers</h1>
+            <div class="horizontal-line"></div>
             <div id="materiallist" class="generic-style--no-border">
             </div>
         </div>
         <div class="generic-container attachment-hierarchy">
-            <h1 class="generic-style-header">Attachment Hierarchy</h1>
+            <h1 class="">Attachment Hierarchy</h1>
+            <div class="horizontal-line"></div>
             <div class="generic-style--no-border attachment-hierarchy--list">
 
             </div>
         </div>
         <div class="generic-container attachment-count">
-            <h1 class="generic-style-header">Attachment Counts</h1>
+            <h1 class="">Attachment Counts</h1>
+            <div class="horizontal-line"></div>
             <div class="generic-style--no-border attachment-count--list">
 
             </div>
         </div>
         <div class="generic-container attachment-combinations">
-            <h1 class="generic-style-header">Attachment Combinations</h1>
+            <h1 class="">Attachment Combinations</h1>
+            <div class="horizontal-line"></div>
             <div class="generic-style--no-border attachment-combinations--list">
 
             </div>
         </div>
+        <div class="footer generic-style">
+            <p>Please contact the Marine Standards Officer to update the standards if you notice any problems. Information on <a href="info.html">icons and libraries used</a>.</p>
+        </div>
     </div>
-    <div class="special-notes generic-style">
-        <p>Please contact the Marine Standards Officer to update the standards if you notice any problems.</p>
-    </div>
+
 </body>
 
 </html>

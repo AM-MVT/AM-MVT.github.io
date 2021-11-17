@@ -1,5 +1,20 @@
 @charset "ISO-8859-1";
 
+.content-container{
+    margin-left: 60px;
+    padding: 10px;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "title title title title"
+    "workorder workorder workorder workorder"
+    "footer footer footer footer";
+}
+
+.top-title{
+    grid-area: title;
+}
 .main-content{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -19,4 +34,8 @@
 
 .pass{
     color: green;
+}
+
+.footer{
+    grid-area: footer;
 }

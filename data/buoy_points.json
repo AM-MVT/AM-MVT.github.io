@@ -12,7 +12,10 @@
             "WMOID": "4400488",
             "Name": "EAST CHEDABUCTO BAY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -28,7 +31,10 @@
             "WMOID": "4400489",
             "Name": "WEST CHEDABUCTO BAY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": false,
+            "_workorder": true
         }
     },
     {
@@ -44,7 +50,10 @@
             "WMOID": "4400490",
             "Name": "WEST BAY OF FUNDY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": false,
+            "_workorder": true
         }
     },
     {
@@ -60,7 +69,10 @@
             "WMOID": "44137",
             "Name": "EAST SCOTIA SLOPE",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": false,
+            "_workorder": false
         }
     },
     {
@@ -76,7 +88,10 @@
             "WMOID": "44139",
             "Name": "BANQUEREAU BANK",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": false,
+            "_workorder": false
         }
     },
     {
@@ -92,7 +107,10 @@
             "WMOID": "44150",
             "Name": "LA HAVE BANK",
             "Buoy Type": "3M_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -107,8 +125,11 @@
         "properties": {
             "WMOID": "44258",
             "Name": "HALIFAX HARBOUR",
-            "Buoy Type": "default",
-            "Valid": false
+            "Buoy Type": "3M_WM500",
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -124,7 +145,10 @@
             "WMOID": "45132",
             "Name": "PORT STANLEY",
             "Buoy Type": "3M_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -140,7 +164,10 @@
             "WMOID": "45135",
             "Name": "PRINCE EDWARD PT",
             "Buoy Type": "3M_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -156,7 +183,10 @@
             "WMOID": "45136",
             "Name": "SLATE ISLAND",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -172,7 +202,10 @@
             "WMOID": "45137",
             "Name": "NORTH GEORGIAN BAY",
             "Buoy Type": "default",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -188,7 +221,10 @@
             "WMOID": "45138",
             "Name": "MONT LOUIS (QUEBEC)",
             "Buoy Type": "default",
-            "Valid": false
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -204,7 +240,10 @@
             "WMOID": "45139",
             "Name": "WEST LAKE ONTARIO",
             "Buoy Type": "3M_WM500",
-            "Valid": true
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -219,8 +258,11 @@
         "properties": {
             "WMOID": "45140",
             "Name": "LAKE WINNIPEG S. BASIN",
-            "Buoy Type": "WK_WM500",
-            "Valid": false
+            "Buoy Type": "default",
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -235,8 +277,11 @@
         "properties": {
             "WMOID": "45141",
             "Name": "GREAT SLAVE LAKE",
-            "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -252,7 +297,10 @@
             "WMOID": "45142",
             "Name": "PORT COLBORNE",
             "Buoy Type": "3M_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -268,7 +316,10 @@
             "WMOID": "45143",
             "Name": "SOUTH GEORGIAN BAY",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -284,7 +335,10 @@
             "WMOID": "45144",
             "Name": "LAKE WINNIPEG N.",
             "Buoy Type": "default",
-            "Valid": true
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -300,7 +354,10 @@
             "WMOID": "45145",
             "Name": "LAKE WINNIPEG NARROWS",
             "Buoy Type": "default",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -316,7 +373,10 @@
             "WMOID": "45147",
             "Name": "LAKE ST. CLAIR",
             "Buoy Type": "WK_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -331,8 +391,11 @@
         "properties": {
             "WMOID": "45148",
             "Name": "LAKE OF THE WOODS",
-            "Buoy Type": "WK_WM500",
-            "Valid": true
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -348,7 +411,10 @@
             "WMOID": "45149",
             "Name": "SOUTHERN LAKE HURON(BAYFIELD)",
             "Buoy Type": "WK_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -363,8 +429,11 @@
         "properties": {
             "WMOID": "45150",
             "Name": "GT. SLAVE LK N. ARM",
-            "Buoy Type": "WK_WM100",
-            "Valid": false
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -379,8 +448,11 @@
         "properties": {
             "WMOID": "45151",
             "Name": "LAKE SIMCOE",
-            "Buoy Type": "default",
-            "Valid": true
+            "Buoy Type": "WK_WM500",
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -396,7 +468,10 @@
             "WMOID": "45152",
             "Name": "LAKE NIPISSING",
             "Buoy Type": "WK_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -412,7 +487,10 @@
             "WMOID": "45154",
             "Name": "NORTH CHANNEL EAST",
             "Buoy Type": "WK_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -428,7 +506,10 @@
             "WMOID": "45159",
             "Name": "NW LAKE ONTARIO AJAX",
             "Buoy Type": "3M_WM500",
-            "Valid": true
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -444,7 +525,10 @@
             "WMOID": "4600303",
             "Name": "SOUTHERN GEORGIA STRAIT",
             "Buoy Type": "OPP_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -460,7 +544,10 @@
             "WMOID": "4600304",
             "Name": "ENTRANCE TO ENGLISH BAY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -476,7 +563,10 @@
             "WMOID": "46004",
             "Name": "MIDDLE NOMAD",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -492,7 +582,10 @@
             "WMOID": "46036",
             "Name": "SOUTH NOMAD",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -508,7 +601,10 @@
             "WMOID": "46131",
             "Name": "SENTRY SHOAL",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -524,7 +620,10 @@
             "WMOID": "46132",
             "Name": "SOUTH BROOKS",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -540,7 +639,10 @@
             "WMOID": "46145",
             "Name": "CENTRAL DIXON ENTRANCE",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -556,7 +658,10 @@
             "WMOID": "46146",
             "Name": "HALIBUT BANK",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -572,7 +677,10 @@
             "WMOID": "46147",
             "Name": "SOUTH MORESBY",
             "Buoy Type": "default",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -588,7 +696,10 @@
             "WMOID": "46181",
             "Name": "NANAKWA SHOAL",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -604,7 +715,10 @@
             "WMOID": "46183",
             "Name": "NORTH HECATE STRAIT",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -620,7 +734,10 @@
             "WMOID": "46184",
             "Name": "NORTH NOMAD",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -636,7 +753,10 @@
             "WMOID": "46185",
             "Name": "SOUTH HECATE STRAIT",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -652,7 +772,10 @@
             "WMOID": "46204",
             "Name": "WEST SEA OTTER",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -668,7 +791,10 @@
             "WMOID": "46205",
             "Name": "WEST DIXON ENTRANCE",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
@@ -684,7 +810,10 @@
             "WMOID": "46206",
             "Name": "LA PEROUSE BANK",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -700,7 +829,10 @@
             "WMOID": "46207",
             "Name": "EAST DELLWOOD",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     },
     {
@@ -716,7 +848,10 @@
             "WMOID": "46208",
             "Name": "WEST MORESBY",
             "Buoy Type": "3M_WM100",
-            "Valid": false
+            "Valid": false,
+            "_flocstruct": false,
+            "_characteristic": true,
+            "_workorder": false
         }
     }
 ]

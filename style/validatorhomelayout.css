@@ -1,33 +1,83 @@
 @charset "ISO-8859-1";
 
-.main-content{
+.content-container{
+    margin-left: 60px;
+    padding: 10px;
     display: grid;
+    grid-gap: 5px;
+    grid-template-rows: auto auto 360px 360px auto auto;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 350px 350px min-content;
-    grid-template-areas: "main-map main-map main-map station"
-    "main-map main-map main-map graph"
-    "statistics statistics statistics statistics";
+    grid-template-areas: "title title title title"
+    "overall-stats overall-stats overall-stats overall-stats"
+    "national-map national-map national-map payloads"
+    "national-map national-map national-map complete"
+    "specific-stats specific-stats specific-stats specific-stats"
+    "footer footer footer footer";
+}
+
+.top-title{
+    grid-area: title;
+}
+
+.overall-stats{
+    grid-area: overall-stats;
+    display: flex;
+    gap: 5px;
+
+}
+
+.overall-stat__container{
+    flex-grow: 1;
+}
+
+.horizontal-progress{
+    width: 100%;
+    height: 20px;
+    background-color: #eeeeee;
+    border-radius: 5px;
+}
+.horizontal-progress *{
+    height: 100%;
+    border-radius: 5px;
+}
+
+.overall-stat__info{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.national-map{
+    grid-area: national-map;
+}
+
+.map-controls{
+    margin: 5px 0px;
+    text-align: right;
+}
+
+#buoy-structures{
+    grid-area: payloads;
+    overflow: hidden;
+}
+#completion-graph{
+    grid-area: complete;
+}
+
+.payload-list{
+    border: 2px solid #eeeeee;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.payload-list > p{
+    padding: 0px;
+    margin: 2px;
 }
 
 .mainmap{
-	grid-area: main-map;
+    height: 600px;
 }
 
-#stationslist{
-	grid-area: station;
-	overflow-y: scroll;
-	max-height: 350px;
-}
-
-#historyGraph{
-	grid-area: graph;
-}
-
-#bottomStats{
-	grid-area: statistics;
-	
-}
-
-#test_container{
-	flex-grow: 1;
+.footer{
+    grid-area: footer;
 }

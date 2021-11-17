@@ -9,14 +9,21 @@
 .nationaltitle{
 	flex-grow: 1;
 }
-
-.main-content{
+.content-container{
+    margin-left: 60px;
+    padding: 10px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
     grid-template-rows: auto auto auto;
-    grid-template-areas: "searchbar searchbar searchbar searchbutton"
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:  "title title title title"
+    "searchbar searchbar searchbar searchbutton"
     "stationinfo stationinfo stationinfo stationinfo"
-    "content content content content";
+    "content content content content"
+}
+
+.top-title{
+    grid-area: title;
 }
 
 /* Selection Form Setup*/
