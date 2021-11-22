@@ -471,7 +471,7 @@
         "buoy_lat": "45.48687",
         "buoy_long": "-61.141",
         "buoy_type": "OPP_WM500",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-4400489",
             "tech": "F0155",
@@ -676,8 +676,8 @@
             ],
             "STATIC LOAD (kg)": [
                 "STATIC LOAD (kg)",
-                "",
-                false
+                "450 kg",
+                true
             ],
             "START DATE": [
                 "START DATE",
@@ -925,9 +925,7 @@
         ],
         "notes": {
             "Functional Location Structure": [],
-            "Characteristics": [
-                "Invalid Characteristics: STATIC LOAD (kg) is not valid."
-            ],
+            "Characteristics": [],
             "Work Orders": []
         }
     },
@@ -938,7 +936,7 @@
         "buoy_lat": "44.66056",
         "buoy_long": "-66.3686",
         "buoy_type": "OPP_WM500",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-4400490",
             "tech": "F0155",
@@ -980,20 +978,6 @@
                             "descendants": []
                         },
                         {
-                            "id": "20192195",
-                            "tech": "E5125",
-                            "desc": "KVH,COMPASS,KVHC100 SE25",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20192196",
-                            "tech": "E5125",
-                            "desc": "KVH,COMPASS,KVHC100 SE25",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
                             "id": "20192197",
                             "tech": "E5430",
                             "desc": "AXYS,WATER TEMP SENSOR,3m & NOMAD BUOY",
@@ -1029,13 +1013,6 @@
                             "descendants": []
                         },
                         {
-                            "id": "20192202",
-                            "tech": "E5385",
-                            "desc": "NAL,IRIDIUM SBD XCVR,9602",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
                             "id": "20192203",
                             "tech": "E5634",
                             "desc": "SKYWAVE,XCVR,ISATDATA PRO IDP-690",
@@ -1057,25 +1034,47 @@
                             "descendants": []
                         },
                         {
-                            "id": "20192206",
-                            "tech": "E5140",
-                            "desc": "AXYS,WM500 NODE,ALL BUOYS",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20192207",
-                            "tech": "E5140",
-                            "desc": "AXYS,WM500 NODE,ALL BUOYS",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
                             "id": "20222760",
                             "tech": "E5095",
                             "desc": "AXYS,SENSOR PROCESS.MOD,OPP (3M WM500)",
                             "valid": true,
-                            "descendants": []
+                            "descendants": [
+                                {
+                                    "id": "20192195",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20192196",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20192202",
+                                    "tech": "E5385",
+                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20192206",
+                                    "tech": "E5140",
+                                    "desc": "AXYS,WM500 NODE,ALL BUOYS",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20192207",
+                                    "tech": "E5140",
+                                    "desc": "AXYS,WM500 NODE,ALL BUOYS",
+                                    "valid": true,
+                                    "descendants": []
+                                }
+                            ]
                         },
                         {
                             "id": "20013138",
@@ -1142,8 +1141,8 @@
             ],
             "STATIC LOAD (kg)": [
                 "STATIC LOAD (kg)",
-                "",
-                false
+                "800 kg",
+                true
             ],
             "START DATE": [
                 "START DATE",
@@ -1335,16 +1334,8 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192195 (E5125) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192196 (E5125) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192202 (E5385) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192206 (E5140) violates standard attachment structure.",
-                "ERROR (Hierarchy Violation): 20188527 (E5010) -> 20192207 (E5140) violates standard attachment structure."
-            ],
-            "Characteristics": [
-                "Invalid Characteristics: STATIC LOAD (kg) is not valid."
-            ],
+            "Functional Location Structure": [],
+            "Characteristics": [],
             "Work Orders": []
         }
     },
@@ -12203,507 +12194,6 @@
             "Work Orders": [
                 "1012185: Missing time confirmation on work order."
             ]
-        }
-    },
-    "07-BUOY-XX-45159": {
-        "buoy_name": "NW LAKE ONTARIO AJAX",
-        "buoy_floc": "07-BUOY-XX-45159",
-        "buoy_wmoid": "45159",
-        "buoy_lat": "43.766667",
-        "buoy_long": "-78.983611",
-        "buoy_type": "3M_WM500",
-        "valid": true,
-        "f_structure": {
-            "id": "07-BUOY-XX-45159",
-            "tech": "F0155",
-            "desc": "NW LAKE ONTARIO AJAX",
-            "valid": true,
-            "descendants": [
-                {
-                    "id": "20133234",
-                    "tech": "E5010",
-                    "desc": "AXYS,MOORED BUOY,3m FOAM",
-                    "valid": true,
-                    "descendants": [
-                        {
-                            "id": "20142680",
-                            "tech": "E5450",
-                            "desc": "VAISALA,WIND SENSOR-ULTRASONIC,WS425",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20230715",
-                            "tech": "E5435",
-                            "desc": "AXYS,WAVE SENSOR,TRIAXYS G3",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20236021",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,3M WM500",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20014039",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20131555",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20132557",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20224695",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20234281",
-                                    "tech": "E5385",
-                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20250627",
-                            "tech": "E5090",
-                            "desc": "AXYS,POWER DISTRIB. MOD,3m BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131293",
-                            "tech": "E5430",
-                            "desc": "AXYS,WATER TEMP SENSOR,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131989",
-                            "tech": "E5245",
-                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20132166",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05103",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20132241",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        }
-                    ]
-                }
-            ]
-        },
-        "characteristics": {
-            "WMO ID": [
-                "WMO ID",
-                "45159",
-                true
-            ],
-            "ELEVATION ASL (m)": [
-                "ELEVATION ASL (m)",
-                "74 m",
-                true
-            ],
-            "MOORING TYPE": [
-                "MOORING TYPE",
-                "All chain (shallow to 90 m)",
-                true
-            ],
-            "MOORING LENGTH (m)": [
-                "MOORING LENGTH (m)",
-                "107 m",
-                true
-            ],
-            "WATER DEPTH (m)": [
-                "WATER DEPTH (m)",
-                "54 m",
-                true
-            ],
-            "WATCH CIRCLE (m)": [
-                "WATCH CIRCLE (m)",
-                "99 m",
-                true
-            ],
-            "STATIC LOAD (kg)": [
-                "STATIC LOAD (kg)",
-                "962 kg",
-                true
-            ],
-            "START DATE": [
-                "START DATE",
-                "2009/05/17",
-                true
-            ],
-            "END DATE": [
-                "END DATE",
-                "9999/01/01",
-                true
-            ],
-            "PERIOD OF DEPLOYMENT": [
-                "PERIOD OF DEPLOYMENT",
-                "Seasonal",
-                true
-            ],
-            "COUNTRY OF OWNERSHIP": [
-                "COUNTRY OF OWNERSHIP",
-                "Canada",
-                true
-            ],
-            "OPERATING AGENCY/INSTITUTE": [
-                "OPERATING AGENCY/INSTITUTE",
-                "EC",
-                true
-            ],
-            "DEGREE OF AUTOMATION": [
-                "DEGREE OF AUTOMATION",
-                "Fully automated",
-                true
-            ],
-            "QUADRANT": [
-                "QUADRANT",
-                "NW(7)",
-                true
-            ],
-            "OPERATING ENVIRONMENT": [
-                "OPERATING ENVIRONMENT",
-                "Lake",
-                true
-            ],
-            "POSITIONING SYSTEM USED": [
-                "POSITIONING SYSTEM USED",
-                "GPS",
-                true
-            ],
-            "PRIMARY SAT. TRANSMITTER SYS": [
-                "PRIMARY SAT. TRANSMITTER SYS",
-                "GOES DCP",
-                true
-            ],
-            "SAT.-PRIMARY SHORT NOTE": [
-                "SAT.-PRIMARY SHORT NOTE",
-                "N/A",
-                true
-            ],
-            "SAT.-PRIMARY TIME SLOT (MM:SS)": [
-                "SAT.-PRIMARY TIME SLOT (MM:SS)",
-                "04:30",
-                true
-            ],
-            "SAT.-PRIMARY SAT. TX ID": [
-                "SAT.-PRIMARY SAT. TX ID",
-                "45713652",
-                true
-            ],
-            "SAT.-PRIMARY CHANNEL": [
-                "SAT.-PRIMARY CHANNEL",
-                "33E",
-                true
-            ],
-            "SAT.-PRIMARY TX INT (HRS)": [
-                "SAT.-PRIMARY TX INT (HRS)",
-                "1 hour",
-                true
-            ],
-            "SECOND SAT. TRANSMISSION SYS": [
-                "SECOND SAT. TRANSMISSION SYS",
-                "None",
-                true
-            ],
-            "SAT.-SECONDARY SHORT NOTE": [
-                "SAT.-SECONDARY SHORT NOTE",
-                "N/A",
-                true
-            ],
-            "SAT.-SECOND TIME SLOT (MM:SS)": [
-                "SAT.-SECOND TIME SLOT (MM:SS)",
-                "N/A",
-                true
-            ],
-            "SAT.-SECONDARY SAT. TX ID": [
-                "SAT.-SECONDARY SAT. TX ID",
-                "N/A",
-                true
-            ],
-            "SAT.-SECONDARY CHANNEL": [
-                "SAT.-SECONDARY CHANNEL",
-                "N/A",
-                true
-            ],
-            "SAT.-SECONDARY TX INT (HRS)": [
-                "SAT.-SECONDARY TX INT (HRS)",
-                "1 hour",
-                true
-            ],
-            "SECOND TX ID (OTHER)": [
-                "SECOND TX ID (OTHER)",
-                "N/A",
-                true
-            ],
-            "TERTIARY SAT. TRANSMITTER SYS": [
-                "TERTIARY SAT. TRANSMITTER SYS",
-                "None",
-                true
-            ],
-            "SAT.-TERTIARY SHORT NOTE": [
-                "SAT.-TERTIARY SHORT NOTE",
-                "N/A",
-                true
-            ],
-            "SAT.-TERTIARY TIME SLOT (MM:SS": [
-                "SAT.-TERTIARY TIME SLOT (MM:SS",
-                "N/A",
-                true
-            ],
-            "SAT.-TERTIARY SAT. TX ID": [
-                "SAT.-TERTIARY SAT. TX ID",
-                "N/A",
-                true
-            ],
-            "SAT.-TERTIARY CHANNEL": [
-                "SAT.-TERTIARY CHANNEL",
-                "N/A",
-                true
-            ],
-            "SAT.-TERTIARY TX INT (HRS)": [
-                "SAT.-TERTIARY TX INT (HRS)",
-                "1 hour",
-                true
-            ],
-            "OBSERVATION FREQUENCY (HRS)": [
-                "OBSERVATION FREQUENCY (HRS)",
-                "1",
-                true
-            ],
-            "ANY OTHER ID": [
-                "ANY OTHER ID",
-                "N/A",
-                true
-            ],
-            "DATA AVAILABILITY": [
-                "DATA AVAILABILITY",
-                "GTS",
-                true
-            ],
-            "DATA FORMAT": [
-                "DATA FORMAT",
-                "BUOY - FM 18-X",
-                true
-            ],
-            "WEB ADDRESS": [
-                "WEB ADDRESS",
-                "HTTP://TINYURL.COM/L7PB3VK",
-                true
-            ],
-            "MET SAMPLING START TIME": [
-                "MET SAMPLING START TIME",
-                "H+11:00",
-                true
-            ],
-            "MET SAMPLING END TIME": [
-                "MET SAMPLING END TIME",
-                "H+01:00",
-                true
-            ]
-        },
-        "work_orders": [
-            [
-                "1009231",
-                "PM21",
-                "Winterize Hull GF-002",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20170323",
-                "20170323",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1018306",
-                "PM21",
-                "Winterization 45159 Ajax - GF-002",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20181130",
-                "20181130",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1015125",
-                "PM21",
-                "Attachment of lifting sling",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20180412",
-                "20180412",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1007964",
-                "PM21",
-                "Populate Buoy 45159",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20161031",
-                "20161031",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1022506",
-                "PM21",
-                "Winterization of NW L Ontario Ajax Buoy",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20191126",
-                "20191126",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1023664",
-                "PM21",
-                "Transmitting issues with 45159 Ajax 2020",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200407",
-                "20200407",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1013574",
-                "PM21",
-                "Winterization of 45159 Ajax ODAS Buoy",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20171129",
-                "20171129",
-                "MM-COST",
-                true
-            ],
-            [
-                "1004788",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20160331",
-                "20160331",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1010638",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20180319",
-                "20180319",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1008115",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20170322",
-                "20170322",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1015847",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20190326",
-                "20190326",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1021220",
-                "PM22",
-                "45159 Ajax Spring Deployment 2020",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200316",
-                "20200318",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1023683",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210311",
-                "20210311",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1026894",
-                "PM21",
-                "Winterization inspection 45159 Ajax",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20201208",
-                "20201208",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1019641",
-                "PM22",
-                "F0155 Annual Inspection",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20210311",
-                "20210311",
-                "MM-ON10",
-                true
-            ]
-        ],
-        "notes": {
-            "Functional Location Structure": [],
-            "Characteristics": [],
-            "Work Orders": []
         }
     },
     "07-BUOY-XX-4600303": {

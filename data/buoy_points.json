@@ -31,9 +31,9 @@
             "WMOID": "4400489",
             "Name": "WEST CHEDABUCTO BAY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false,
+            "Valid": true,
             "_flocstruct": true,
-            "_characteristic": false,
+            "_characteristic": true,
             "_workorder": true
         }
     },
@@ -50,9 +50,9 @@
             "WMOID": "4400490",
             "Name": "WEST BAY OF FUNDY",
             "Buoy Type": "OPP_WM500",
-            "Valid": false,
-            "_flocstruct": false,
-            "_characteristic": false,
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
             "_workorder": true
         }
     },
@@ -491,25 +491,6 @@
             "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -78.983611,
-                43.766667
-            ]
-        },
-        "properties": {
-            "WMOID": "45159",
-            "Name": "NW LAKE ONTARIO AJAX",
-            "Buoy Type": "3M_WM500",
-            "Valid": true,
-            "_flocstruct": true,
-            "_characteristic": true,
-            "_workorder": true
         }
     },
     {
