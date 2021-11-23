@@ -1,0 +1,1674 @@
+{
+    "open_wo": [
+        [
+            "1001939",
+            "PM22",
+            "F0160 Annual Inspection",
+            "CRTD MANC NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1008017",
+            "PM22",
+            "F0160 Annual Inspection",
+            "CRTD MANC NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-QB10"
+        ],
+        [
+            "1009337",
+            "PM21",
+            "Annual Temp/RH maintenance",
+            "CRTD NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1009304",
+            "PM22",
+            "F0160 Annual Inspection",
+            "CRTD MANC NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1007648",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1007649",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1007654",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1008720",
+            "PM21",
+            "RMA to Axys WM070",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008732",
+            "PM21",
+            "RMA to Axys TAir 232",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1013898",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013916",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008715",
+            "PM21",
+            "RMA to Axys WM062",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1011540",
+            "PM21",
+            "Changed with box upgrade -new payload",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1008717",
+            "PM21",
+            "RMA to Axys 00262",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008722",
+            "PM21",
+            "RMA to Axys WM055",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1011541",
+            "PM21",
+            "Changed during annual maintenance",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1013915",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013896",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013897",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008615",
+            "PM21",
+            "Repair and Calibration:RH high",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008733",
+            "PM21",
+            "RMA to Axys TAir 130",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1011542",
+            "PM21",
+            "Changed during annual maintenance",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1008712",
+            "PM21",
+            "RMA to Axys WMT089",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008721",
+            "PM21",
+            "RMA to Axys WM027",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008734",
+            "PM21",
+            "RMA to Axys TAir 175",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1009166",
+            "PM21",
+            "Annual Temp/RH maintenance",
+            "CRTD NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1008718",
+            "PM21",
+            "RMA to Axys WM032",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008725",
+            "PM21",
+            "RMA to Axys PDB 141",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008729",
+            "PM21",
+            "RMA to Axys SST 970",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008731",
+            "PM21",
+            "RMA to Axys TAir 236",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008713",
+            "PM21",
+            "RMA to Axys WM054",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008716",
+            "PM21",
+            "RMA to Axys WM016",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1006432",
+            "PM21",
+            "Populate Station",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1005307",
+            "PM21",
+            "Air Temp/RH replacement",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1006610",
+            "PM21",
+            "Ultrasonic wind sensor damaged",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1006667",
+            "PM21",
+            "RMY annual service",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1005309",
+            "PM21",
+            "Bridge PC replacement",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1006435",
+            "PM21",
+            "Populate Station",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1007491",
+            "PM21",
+            "AVOS MP101A-T7 to be sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1011398",
+            "PM21",
+            "REPAIR VAISALA,BAROMETER f0410015",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1011595",
+            "PM21",
+            "Vaisala removed for repair or disposal",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1011900",
+            "PM21",
+            "Rotronics removed for repair or recalibr",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1007908",
+            "PM21",
+            "Repair Enclosure - Replace Connectors",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1011984",
+            "PM21",
+            "TAIR removed for repair",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1010242",
+            "PM21",
+            "Buoy Servicing",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1011528",
+            "PM21",
+            "AVOS annual inspection Air temp  sensor",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1011527",
+            "PM21",
+            "AVOS  annual inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1008169",
+            "PM21",
+            "Tem/HR sensors service",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1009949",
+            "PM21",
+            "Temp sensor needs repair",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1011626",
+            "PM21",
+            "Populate Station",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1009950",
+            "PM21",
+            "LED lamp needs overhaul",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1007704",
+            "PM21",
+            "refurbish of transmitter module",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008160",
+            "PM21",
+            "Tem/HR sensors service",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008167",
+            "PM21",
+            "Temp /HR sensors annual inspection",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1013769",
+            "PM21",
+            "RM Young removed for service 05/12/17",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013777",
+            "PM21",
+            "RM Young removed for service 05/12/17",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012258",
+            "PM21",
+            "Repair sensor processor module on bench",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008139",
+            "PM21",
+            "Annual service",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1013612",
+            "PM21",
+            "Removal and repair RM Young",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1010622",
+            "PM21",
+            "LED lamp needs overhaul",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1011529",
+            "PM21",
+            "AVOS Annual inspection RMY",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1013615",
+            "PM21",
+            "Removal and repair RM Young",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1010593",
+            "PM21",
+            "LED lamp needs overhaul",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012213",
+            "PM21",
+            "item requiires repair and testing",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-ON02"
+        ],
+        [
+            "1007650",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1006281",
+            "PM21",
+            "RMA AVOS Payload Repair",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1011544",
+            "PM21",
+            "Upgrade box -new instruments inside",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1013322",
+            "PM21",
+            "RMY SN: 132980 from field stn:WEB",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1011539",
+            "PM21",
+            "Changed during panel upgrade",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1008051",
+            "PM21",
+            "repair of temp sensor",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008625",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1011543",
+            "PM21",
+            "Upgrade box -new instruments inside",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1011963",
+            "PM21",
+            "PDM requires rebuild",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1008624",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008626",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008627",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008629",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008730",
+            "PM21",
+            "RMA to Axys SST 1630",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008631",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1013899",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013901",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013902",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013917",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008628",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1007916",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008727",
+            "PM21",
+            "RMA to Axys SST 1150",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1013321",
+            "PM21",
+            "RMY SN: 113358 from field stn WEB",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1000349",
+            "PM24",
+            "MSC AVOS - Sched. Maintenance",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000350",
+            "PM24",
+            "MSC AVOS - Non Sched. Maintenance",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000351",
+            "PM24",
+            "MSC AVOS - National LCM",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000352",
+            "PM24",
+            "MSC AVOS - National Standards",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000353",
+            "PM24",
+            "MSC AVOS - National Eng Support",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000356",
+            "PM24",
+            "MSC AVOS Network Management and Admin",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000357",
+            "PM24",
+            "MSC Moored Network Management and Admin",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000344",
+            "PM24",
+            "MSC Moored Buoy - Sched. Maintenance",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000345",
+            "PM24",
+            "MSC Moored Buoy - Non Sched. Maintenance",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000346",
+            "PM24",
+            "MSC Moored Buoy - National LCM",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000347",
+            "PM24",
+            "MSC Moored Buoy - National Standards",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000348",
+            "PM24",
+            "MSC Moored Buoy - National Eng Support",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1007655",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1006335",
+            "PM21",
+            "Air Temp/Hr sensor annual service",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1007653",
+            "PM21",
+            "Return to AXYS for repair/rebuild.",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1007656",
+            "PM21",
+            "Return to AXYS for repair/recalibration.",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1004807",
+            "PM21",
+            "Populate Station",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1013046",
+            "PM21",
+            "removal and repair of AVOS PC",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1008901",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013922",
+            "PM21",
+            "Triaxys removed for repair",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1009629",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013865",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008158",
+            "PM21",
+            "RMY install correction",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1008709",
+            "PM21",
+            "Annual service",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1008789",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1008307",
+            "PM21",
+            "Periodic maintenance/refurbishment",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013883",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013031",
+            "PM21",
+            "Temp removed for service May 23, 2017",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1010614",
+            "PM21",
+            "Antenna requiring repair or disposal",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1009630",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013881",
+            "PM21",
+            "RMA to AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1008893",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1007906",
+            "PM21",
+            "Repair and Calibrate. Condition Unknown",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008157",
+            "PM21",
+            "Correction of Temp / RH sensor",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1013213",
+            "PM21",
+            "repair of AVOS Payload due to Lightning",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1008710",
+            "PM21",
+            "Annual service",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1010594",
+            "PM21",
+            "Antenna requiring repair or disposal",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013765",
+            "PM21",
+            "WKR Payload removed for service 04/12/17",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1013888",
+            "PM21",
+            "RMA to AXYS",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1013868",
+            "PM21",
+            "RMA to AXYS",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1007502",
+            "PM21",
+            "AVOS MP101A-T7 sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1007498",
+            "PM21",
+            "AVOS MP101A-T7 to be sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1007508",
+            "PM21",
+            "AVOS MP101A-T7 to be sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008985",
+            "PM21",
+            "Air Temp /HR annual service 107454",
+            "REL  CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20170112",
+            "20170112",
+            "AM-QB10"
+        ],
+        [
+            "1007495",
+            "PM21",
+            "AVOS MP101A-T7 to be sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1008989",
+            "PM21",
+            "Air Temp /HR annual service 61348380",
+            "REL  CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20170112",
+            "20170112",
+            "AM-QB10"
+        ],
+        [
+            "1007500",
+            "PM21",
+            "AVOS MP101A-T7 to be sent for R&E",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1013784",
+            "PM21",
+            "Handar removed for service 05/12/17",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1012351",
+            "PM21",
+            "replaced as part of annual maintenance",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1012802",
+            "PM21",
+            "removed from service during annual maint",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1005305",
+            "PM21",
+            "Populate Station-Adding Iridium Antenna",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1006583",
+            "PM21",
+            "Item requires locating and testing",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1008993",
+            "PM21",
+            "Air Temp /HR annual service 60503470",
+            "REL  CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20170112",
+            "20170112",
+            "AM-QB10"
+        ],
+        [
+            "1011916",
+            "PM21",
+            "Antenna requiring repair or disposal",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1008898",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1009328",
+            "PM21",
+            "RMA WMT702 K2230008",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1008892",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1011538",
+            "PM21",
+            "Populate Station",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PN10"
+        ],
+        [
+            "1009651",
+            "PM21",
+            "Test And Serialize",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1009951",
+            "PM21",
+            "Wave sensor requires recalibration",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012078",
+            "PM21",
+            "Antenna requiring repair or disposal",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012152",
+            "PM21",
+            "removal of faulty enclosure",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-AT10"
+        ],
+        [
+            "1007925",
+            "PM21",
+            "Installing on Buoy",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "AM-PN30"
+        ],
+        [
+            "1008736",
+            "PM21",
+            "RMA to Axys SST 1690",
+            "REL  GMPS NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1009342",
+            "PM21",
+            "Annual Sonic maintenance",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-PY10"
+        ],
+        [
+            "1012173",
+            "PM21",
+            "Item requires outside refurb at AXYS",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-ON10"
+        ],
+        [
+            "1000354",
+            "PM24",
+            "MSC Ocean Drifting Buoy",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000355",
+            "PM24",
+            "MSC Arctic Drifting Buoy",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1000358",
+            "PM24",
+            "MSC Drifter Network Management and Admin",
+            "REL  NMAT PRC  SETC",
+            "NEW",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1003131",
+            "PM23",
+            "CMR, IRIDIUM DRIFTER, ICEX - AIR",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1003132",
+            "PM23",
+            "CMR, IRIDIUM DRIFTER, ICEX - AIR",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012607",
+            "PM23",
+            "AUC Overhaul 3M Buoy hulls EMR 20133264",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1003138",
+            "PM23",
+            "MOORED BUOY, TRIAXYS DCTNL (NWII)",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1003139",
+            "PM23",
+            "MOORED BUOY, TRIAXYS DCTNL (NWII)",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012608",
+            "PM23",
+            "AUC Overhaul 3M Buoy hulls (EMR 20133272",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012609",
+            "PM23",
+            "AUC Overhaul 3M Buoy hulls EMR 20133273",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1012610",
+            "PM23",
+            "AUC Overhaul 3M Buoy hulls EMR 20133274",
+            "REL  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1006378",
+            "PM23",
+            "Ice Mass Bal. Buoy (IMEI 300025010923700",
+            "REL  NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ],
+        [
+            "1004288",
+            "PM21",
+            "Baro",
+            "REL  NMAT PRC",
+            "UNPL CANC",
+            "",
+            "",
+            "AM-PY10"
+        ],
+        [
+            "1013107",
+            "PM22",
+            "E5010 Annual Inspection",
+            "REL  NMAT PRC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST"
+        ]
+    ]
+}

@@ -14,11 +14,11 @@
     <!-- Style sheets for website-->
     <link rel="stylesheet" href="style/validatorglobaldesign.css" />
     <link rel="stylesheet" href="style/validatornavlayout.css" />
-    <link rel="stylesheet" href="style/validatorstandardslayout.css" />
+    <link rel="stylesheet" href="style/validatorworkorderlayout.css" />
 
     <!-- JavaScript for website-->
     <script src="scripts/validator.global.js"></script>
-    <script src="scripts/validator.standards.js"></script>
+    <script src="scripts/validator.openworkorders.js"></script>
 </head>
 
 <body>
@@ -36,59 +36,35 @@
             <h2 class="navigation-bar__text">Work Orders</h2>
         </div>
         <div class="navigation-bar__icon navigation-bar__work-orders">
-            <a href="marineopenworkorders.html" class="navigation-bar__image"><span class="bi bi-tools" style="font-size: 20px; color: #E7ECEF"/></a>
+            <a href="#" class="navigation-bar__image"><span class="bi bi-tools" style="font-size: 20px; color: #E7ECEF"/></a>
             <h2 class="navigation-bar__text">Open Work Orders</h2>
         </div>
         <div class="navigation-bar__icon navigation-bar__standards">
-            <a href="#" class="navigation-bar__image"><span class="bi bi-gear" style="font-size: 20px; color: #E7ECEF"/></a>
+            <a href="validatorstandards.html" class="navigation-bar__image"><span class="bi bi-gear" style="font-size: 20px; color: #E7ECEF"/></a>
             <h2 class="navigation-bar__text">Standards</h2>
         </div>
     </div>
     <div class="content-container">
         <div class="top-title">
-            <h1 class="nationaltitle">Buoy Structure Standards</h1>
+            <h1 class="nationaltitle">Open Work Orders</h1>
         </div>
-        <div class="generic-style standards">
-            <div class="buoy_selection">
-                <ul class="drop-down-list">
-                    <li>
-                        <h1 onclick="open_drop_down()" class="standard-flipdown">3M WM100</h1>
-                        <ul class="drop-down-list-further closed">
-                            <li onclick='load_standard("3M_WM100");open_drop_down();'>3M WM100</li>
-                            <li onclick='load_standard("WK_WM100");open_drop_down();'>WK WM100</li>
-                            <li onclick='load_standard("3M_WM500");open_drop_down();'>3M WM500</li>
-                            <li onclick='load_standard("WK_WM500");open_drop_down();'>WK WM500</li>
-                            <li onclick='load_standard("OPP_WM500");open_drop_down();'>OPP WM500</li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="generic-container materialnum">
-            <h1 class="">Material Numbers</h1>
+        <div class="generic-container work-order">
+            <h1 class="">Marine Work Orders</h1>
             <div class="horizontal-line"></div>
-            <div id="materiallist" class="generic-style--no-border">
-            </div>
-        </div>
-        <div class="generic-container attachment-hierarchy">
-            <h1 class="">Attachment Hierarchy</h1>
-            <div class="horizontal-line"></div>
-            <div class="generic-style--no-border attachment-hierarchy--list">
-
-            </div>
-        </div>
-        <div class="generic-container attachment-count">
-            <h1 class="">Attachment Counts</h1>
-            <div class="horizontal-line"></div>
-            <div class="generic-style--no-border attachment-count--list">
-
-            </div>
-        </div>
-        <div class="generic-container attachment-combinations">
-            <h1 class="">Attachment Combinations</h1>
-            <div class="horizontal-line"></div>
-            <div class="generic-style--no-border attachment-combinations--list">
-
+            <div class="generic-style--no-border work-order--table">
+                <table id="workOrderTable" class="generic-datatable">
+                    <tr>
+                        <th>Work Order Number</th>
+                        <th>Order Type</th>
+                        <th>Description</th>
+                        <th>Confirmations Codes System</th>
+                        <th>Confirmations Codes User</th>
+                        <th>Start Date</th>
+                        <th>End Date</th>
+                        <th>Work Order Center</th>
+                        <th>Status</th>
+                    </tr>
+                </table>
             </div>
         </div>
         <div class="footer">

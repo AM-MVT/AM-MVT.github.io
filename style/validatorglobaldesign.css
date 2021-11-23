@@ -151,3 +151,16 @@ body{
 	min-height: 5px;
 	background-color: #274C77;
 }
+
+.footer{
+	display: flex;
+}
+
+.footer-right{
+	flex-grow: 1;
+}
+
+.footer-left{
+	display: flex;
+	align-items: center;
+}

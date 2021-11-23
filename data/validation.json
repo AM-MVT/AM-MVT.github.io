@@ -13434,7 +13434,6 @@
                 "1019287: Missing full time confirmation on work order.",
                 "1019287: Missing actual finish date.",
                 "1008788: Flag on work order do not reflect a properly closed or complete work order.",
-                "1008788: Missing time confirmation on work order.",
                 "1008788: Missing actual start date.",
                 "1008788: Missing actual finish date."
             ]
@@ -13856,7 +13855,6 @@
                 "1009604: Missing full time confirmation on work order.",
                 "1009604: Missing actual finish date.",
                 "1005759: Flag on work order do not reflect a properly closed or complete work order.",
-                "1005759: Missing time confirmation on work order.",
                 "1005759: Missing actual start date.",
                 "1005759: Missing actual finish date."
             ]
@@ -14698,11 +14696,9 @@
                 "1018946: Missing full time confirmation on work order.",
                 "1018946: Missing actual finish date.",
                 "1006501: Flag on work order do not reflect a properly closed or complete work order.",
-                "1006501: Missing time confirmation on work order.",
                 "1006501: Missing actual start date.",
                 "1006501: Missing actual finish date.",
                 "1016343: Flag on work order do not reflect a properly closed or complete work order.",
-                "1016343: Missing time confirmation on work order.",
                 "1016343: Missing actual start date.",
                 "1016343: Missing actual finish date.",
                 "1025751: Missing time confirmation on work order."
@@ -15142,15 +15138,12 @@
             "Characteristics": [],
             "Work Orders": [
                 "1021767: Flag on work order do not reflect a properly closed or complete work order.",
-                "1021767: Missing time confirmation on work order.",
                 "1021767: Missing actual start date.",
                 "1021767: Missing actual finish date.",
                 "1021766: Flag on work order do not reflect a properly closed or complete work order.",
-                "1021766: Missing time confirmation on work order.",
                 "1021766: Missing actual start date.",
                 "1021766: Missing actual finish date.",
                 "1027368: Flag on work order do not reflect a properly closed or complete work order.",
-                "1027368: Missing time confirmation on work order.",
                 "1027368: Missing actual start date.",
                 "1027368: Missing actual finish date."
             ]
@@ -17237,11 +17230,9 @@
                 "1005000: Missing full time confirmation on work order.",
                 "1005000: Missing actual finish date.",
                 "1005063: Flag on work order do not reflect a properly closed or complete work order.",
-                "1005063: Missing time confirmation on work order.",
                 "1005063: Missing actual start date.",
                 "1005063: Missing actual finish date.",
                 "1008900: Flag on work order do not reflect a properly closed or complete work order.",
-                "1008900: Missing time confirmation on work order.",
                 "1008900: Missing actual start date.",
                 "1008900: Missing actual finish date."
             ]
@@ -19431,7 +19422,6 @@
                 "1014973: Missing full time confirmation on work order.",
                 "1014973: Missing actual finish date.",
                 "1006501: Flag on work order do not reflect a properly closed or complete work order.",
-                "1006501: Missing time confirmation on work order.",
                 "1006501: Missing actual start date.",
                 "1006501: Missing actual finish date."
             ]
@@ -19918,7 +19908,6 @@
                 "1005003: Missing full time confirmation on work order.",
                 "1005003: Missing actual finish date.",
                 "1006457: Flag on work order do not reflect a properly closed or complete work order.",
-                "1006457: Missing time confirmation on work order.",
                 "1006457: Missing actual start date.",
                 "1006457: Missing actual finish date.",
                 "1005058: Missing time confirmation on work order.",
