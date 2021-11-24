@@ -1504,8 +1504,8 @@
             ],
             "STATIC LOAD (kg)": [
                 "STATIC LOAD (kg)",
-                "",
-                false
+                "800 kg",
+                true
             ],
             "START DATE": [
                 "START DATE",
@@ -1685,17 +1685,6 @@
         },
         "work_orders": [
             [
-                "1024692",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210814",
-                "20210814",
-                "",
-                false
-            ],
-            [
                 "1004648",
                 "PM21",
                 "Populate Station",
@@ -1815,19 +1804,28 @@
                 "20210813",
                 "",
                 false
+            ],
+            [
+                "1024692",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210814",
+                "20210814",
+                "",
+                false
             ]
         ],
         "notes": {
             "Functional Location Structure": [
                 "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
             ],
-            "Characteristics": [
-                "Invalid Characteristics: STATIC LOAD (kg) is not valid."
-            ],
+            "Characteristics": [],
             "Work Orders": [
-                "1024692: Correct to work center.",
                 "1024694: Correct to work center.",
-                "1026643: Correct to work center."
+                "1026643: Correct to work center.",
+                "1024692: Correct to work center."
             ]
         }
     },
@@ -2003,8 +2001,8 @@
             ],
             "STATIC LOAD (kg)": [
                 "STATIC LOAD (kg)",
-                "",
-                false
+                "800 kg",
+                true
             ],
             "START DATE": [
                 "START DATE",
@@ -2184,17 +2182,6 @@
         },
         "work_orders": [
             [
-                "1024692",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210814",
-                "20210814",
-                "",
-                false
-            ],
-            [
                 "1004693",
                 "PM21",
                 "Populate Station",
@@ -2325,21 +2312,30 @@
                 "20211105",
                 "MM-AT10",
                 true
+            ],
+            [
+                "1024692",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210814",
+                "20210814",
+                "",
+                false
             ]
         ],
         "notes": {
             "Functional Location Structure": [
                 "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
             ],
-            "Characteristics": [
-                "Invalid Characteristics: STATIC LOAD (kg) is not valid."
-            ],
+            "Characteristics": [],
             "Work Orders": [
-                "1024692: Correct to work center.",
                 "1016363: Missing full time confirmation on work order.",
                 "1016363: Missing actual finish date.",
                 "1004656: Missing time confirmation on work order.",
-                "1026644: Correct to work center."
+                "1026644: Correct to work center.",
+                "1024692: Correct to work center."
             ]
         }
     },
@@ -12194,6 +12190,340 @@
             "Work Orders": [
                 "1012185: Missing time confirmation on work order."
             ]
+        }
+    },
+    "07-BUOY-XX-45159": {
+        "buoy_name": "NW LAKE ONTARIO AJAX",
+        "buoy_floc": "07-BUOY-XX-45159",
+        "buoy_wmoid": "45159",
+        "buoy_lat": "43.766667",
+        "buoy_long": "-78.983611",
+        "buoy_type": "default",
+        "valid": true,
+        "f_structure": {
+            "id": "07-BUOY-XX-45159",
+            "tech": "F0155",
+            "desc": "NW LAKE ONTARIO AJAX",
+            "valid": true,
+            "descendants": []
+        },
+        "characteristics": {
+            "WMO ID": [
+                "WMO ID",
+                "45159",
+                true
+            ],
+            "ELEVATION ASL (m)": [
+                "ELEVATION ASL (m)",
+                "74 m",
+                true
+            ],
+            "MOORING TYPE": [
+                "MOORING TYPE",
+                "All chain (shallow to 90 m)",
+                true
+            ],
+            "MOORING LENGTH (m)": [
+                "MOORING LENGTH (m)",
+                "107 m",
+                true
+            ],
+            "WATER DEPTH (m)": [
+                "WATER DEPTH (m)",
+                "54 m",
+                true
+            ],
+            "WATCH CIRCLE (m)": [
+                "WATCH CIRCLE (m)",
+                "99 m",
+                true
+            ],
+            "STATIC LOAD (kg)": [
+                "STATIC LOAD (kg)",
+                "962 kg",
+                true
+            ],
+            "START DATE": [
+                "START DATE",
+                "2009/05/17",
+                true
+            ],
+            "END DATE": [
+                "END DATE",
+                "9999/01/01",
+                true
+            ],
+            "PERIOD OF DEPLOYMENT": [
+                "PERIOD OF DEPLOYMENT",
+                "Seasonal",
+                true
+            ],
+            "COUNTRY OF OWNERSHIP": [
+                "COUNTRY OF OWNERSHIP",
+                "Canada",
+                true
+            ],
+            "OPERATING AGENCY/INSTITUTE": [
+                "OPERATING AGENCY/INSTITUTE",
+                "EC",
+                true
+            ],
+            "DEGREE OF AUTOMATION": [
+                "DEGREE OF AUTOMATION",
+                "Fully automated",
+                true
+            ],
+            "QUADRANT": [
+                "QUADRANT",
+                "NW(7)",
+                true
+            ],
+            "OPERATING ENVIRONMENT": [
+                "OPERATING ENVIRONMENT",
+                "Lake",
+                true
+            ],
+            "POSITIONING SYSTEM USED": [
+                "POSITIONING SYSTEM USED",
+                "GPS",
+                true
+            ],
+            "PRIMARY SAT. TRANSMITTER SYS": [
+                "PRIMARY SAT. TRANSMITTER SYS",
+                "GOES DCP",
+                true
+            ],
+            "SAT.-PRIMARY SHORT NOTE": [
+                "SAT.-PRIMARY SHORT NOTE",
+                "N/A",
+                true
+            ],
+            "SAT.-PRIMARY TIME SLOT (MM:SS)": [
+                "SAT.-PRIMARY TIME SLOT (MM:SS)",
+                "04:30",
+                true
+            ],
+            "SAT.-PRIMARY SAT. TX ID": [
+                "SAT.-PRIMARY SAT. TX ID",
+                "45713652",
+                true
+            ],
+            "SAT.-PRIMARY CHANNEL": [
+                "SAT.-PRIMARY CHANNEL",
+                "33E",
+                true
+            ],
+            "SAT.-PRIMARY TX INT (HRS)": [
+                "SAT.-PRIMARY TX INT (HRS)",
+                "1 hour",
+                true
+            ],
+            "SECOND SAT. TRANSMISSION SYS": [
+                "SECOND SAT. TRANSMISSION SYS",
+                "None",
+                true
+            ],
+            "SAT.-SECONDARY SHORT NOTE": [
+                "SAT.-SECONDARY SHORT NOTE",
+                "N/A",
+                true
+            ],
+            "SAT.-SECOND TIME SLOT (MM:SS)": [
+                "SAT.-SECOND TIME SLOT (MM:SS)",
+                "N/A",
+                true
+            ],
+            "SAT.-SECONDARY SAT. TX ID": [
+                "SAT.-SECONDARY SAT. TX ID",
+                "N/A",
+                true
+            ],
+            "SAT.-SECONDARY CHANNEL": [
+                "SAT.-SECONDARY CHANNEL",
+                "N/A",
+                true
+            ],
+            "SAT.-SECONDARY TX INT (HRS)": [
+                "SAT.-SECONDARY TX INT (HRS)",
+                "1 hour",
+                true
+            ],
+            "SECOND TX ID (OTHER)": [
+                "SECOND TX ID (OTHER)",
+                "N/A",
+                true
+            ],
+            "TERTIARY SAT. TRANSMITTER SYS": [
+                "TERTIARY SAT. TRANSMITTER SYS",
+                "None",
+                true
+            ],
+            "SAT.-TERTIARY SHORT NOTE": [
+                "SAT.-TERTIARY SHORT NOTE",
+                "N/A",
+                true
+            ],
+            "SAT.-TERTIARY TIME SLOT (MM:SS": [
+                "SAT.-TERTIARY TIME SLOT (MM:SS",
+                "N/A",
+                true
+            ],
+            "SAT.-TERTIARY SAT. TX ID": [
+                "SAT.-TERTIARY SAT. TX ID",
+                "N/A",
+                true
+            ],
+            "SAT.-TERTIARY CHANNEL": [
+                "SAT.-TERTIARY CHANNEL",
+                "N/A",
+                true
+            ],
+            "SAT.-TERTIARY TX INT (HRS)": [
+                "SAT.-TERTIARY TX INT (HRS)",
+                "1 hour",
+                true
+            ],
+            "OBSERVATION FREQUENCY (HRS)": [
+                "OBSERVATION FREQUENCY (HRS)",
+                "1",
+                true
+            ],
+            "ANY OTHER ID": [
+                "ANY OTHER ID",
+                "N/A",
+                true
+            ],
+            "DATA AVAILABILITY": [
+                "DATA AVAILABILITY",
+                "GTS",
+                true
+            ],
+            "DATA FORMAT": [
+                "DATA FORMAT",
+                "BUOY - FM 18-X",
+                true
+            ],
+            "WEB ADDRESS": [
+                "WEB ADDRESS",
+                "HTTP://TINYURL.COM/L7PB3VK",
+                true
+            ],
+            "MET SAMPLING START TIME": [
+                "MET SAMPLING START TIME",
+                "H+11:00",
+                true
+            ],
+            "MET SAMPLING END TIME": [
+                "MET SAMPLING END TIME",
+                "H+01:00",
+                true
+            ]
+        },
+        "work_orders": [
+            [
+                "1009231",
+                "PM21",
+                "Winterize Hull GF-002",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20170323",
+                "20170323",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1018306",
+                "PM21",
+                "Winterization 45159 Ajax - GF-002",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20181130",
+                "20181130",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1015125",
+                "PM21",
+                "Attachment of lifting sling",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20180412",
+                "20180412",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1007964",
+                "PM21",
+                "Populate Buoy 45159",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20161031",
+                "20161031",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1004788",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160331",
+                "20160331",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1010638",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20180319",
+                "20180319",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1008115",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20170322",
+                "20170322",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1015847",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190326",
+                "20190326",
+                "MM-ON10",
+                true
+            ],
+            [
+                "1019641",
+                "PM22",
+                "F0155 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20210311",
+                "20210311",
+                "MM-ON10",
+                true
+            ]
+        ],
+        "notes": {
+            "Functional Location Structure": [],
+            "Characteristics": [],
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-4600303": {

@@ -34,17 +34,6 @@
             false
         ],
         [
-            "1024692",
-            "PM22",
-            "E5010 Annual Inspection",
-            "TECO CNF  GMPS NMAT PRC",
-            "UNPL",
-            "20210814",
-            "20210814",
-            "",
-            false
-        ],
-        [
             "1026132",
             "PM21",
             "Work order created to install equipment",
@@ -5971,6 +5960,17 @@
             "20210713",
             "",
             "MM-ON10",
+            false
+        ],
+        [
+            "1024692",
+            "PM22",
+            "E5010 Annual Inspection",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20210814",
+            "20210814",
+            "",
             false
         ],
         [

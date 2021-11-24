@@ -71,7 +71,7 @@
             "Buoy Type": "3M_WM100",
             "Valid": false,
             "_flocstruct": false,
-            "_characteristic": false,
+            "_characteristic": true,
             "_workorder": false
         }
     },
@@ -90,7 +90,7 @@
             "Buoy Type": "3M_WM100",
             "Valid": false,
             "_flocstruct": false,
-            "_characteristic": false,
+            "_characteristic": true,
             "_workorder": false
         }
     },
@@ -491,6 +491,25 @@
             "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78.983611,
+                43.766667
+            ]
+        },
+        "properties": {
+            "WMOID": "45159",
+            "Name": "NW LAKE ONTARIO AJAX",
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
+            "_characteristic": true,
+            "_workorder": true
         }
     },
     {
