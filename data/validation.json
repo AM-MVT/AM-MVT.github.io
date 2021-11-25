@@ -2326,9 +2326,7 @@
                 "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
             ],
             "Characteristics": [],
-            "Work Orders": [
-                "1004656: Missing time confirmation on work order."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-44150": {
@@ -3891,8 +3889,7 @@
                 "1018833: Missing full time confirmation on work order.",
                 "1018833: Missing actual finish date.",
                 "1009228: Missing full time confirmation on work order.",
-                "1009228: Missing actual finish date.",
-                "1013750: Missing time confirmation on work order."
+                "1009228: Missing actual finish date."
             ]
         }
     },
@@ -5229,8 +5226,7 @@
             "Characteristics": [],
             "Work Orders": [
                 "1006572: Missing full time confirmation on work order.",
-                "1006572: Missing actual finish date.",
-                "1017223: Missing time confirmation on work order."
+                "1006572: Missing actual finish date."
             ]
         }
     },
@@ -6940,8 +6936,7 @@
             "Work Orders": [
                 "1013861: Missing time confirmation on work order.",
                 "1013861: Missing actual start date.",
-                "1013861: Missing actual finish date.",
-                "1015512: Missing time confirmation on work order."
+                "1013861: Missing actual finish date."
             ]
         }
     },
@@ -7893,8 +7888,7 @@
                 "1018839: Missing full time confirmation on work order.",
                 "1018839: Missing actual finish date.",
                 "1018841: Missing full time confirmation on work order.",
-                "1018841: Missing actual finish date.",
-                "1013751: Missing time confirmation on work order."
+                "1018841: Missing actual finish date."
             ]
         }
     },
@@ -11936,9 +11930,7 @@
                 "ERROR (Material Violation): 7300000034 is not a valid material number per standard."
             ],
             "Characteristics": [],
-            "Work Orders": [
-                "1012185: Missing time confirmation on work order."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-45159": {
@@ -14779,8 +14771,7 @@
                 "1006501: Missing actual finish date.",
                 "1016343: Flag on work order do not reflect a properly closed or complete work order.",
                 "1016343: Missing actual start date.",
-                "1016343: Missing actual finish date.",
-                "1025751: Missing time confirmation on work order."
+                "1016343: Missing actual finish date."
             ]
         }
     },
@@ -17734,9 +17725,7 @@
             "Characteristics": [],
             "Work Orders": [
                 "1005001: Missing full time confirmation on work order.",
-                "1005001: Missing actual finish date.",
-                "1005058: Missing time confirmation on work order.",
-                "1008277: Missing time confirmation on work order."
+                "1005001: Missing actual finish date."
             ]
         }
     },
@@ -19988,9 +19977,7 @@
                 "1005003: Missing actual finish date.",
                 "1006457: Flag on work order do not reflect a properly closed or complete work order.",
                 "1006457: Missing actual start date.",
-                "1006457: Missing actual finish date.",
-                "1005058: Missing time confirmation on work order.",
-                "1008277: Missing time confirmation on work order."
+                "1006457: Missing actual finish date."
             ]
         }
     }
