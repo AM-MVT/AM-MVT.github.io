@@ -1784,6 +1784,17 @@
                 true
             ],
             [
+                "1024692",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210814",
+                "20210814",
+                "MM-AT10",
+                true
+            ],
+            [
                 "1024694",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -1791,8 +1802,8 @@
                 "UNPL",
                 "20210813",
                 "20210813",
-                "",
-                false
+                "MM-AT10",
+                true
             ],
             [
                 "1026643",
@@ -1802,19 +1813,8 @@
                 "UNPL",
                 "20210813",
                 "20210813",
-                "",
-                false
-            ],
-            [
-                "1024692",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210814",
-                "20210814",
-                "",
-                false
+                "MM-AT10",
+                true
             ]
         ],
         "notes": {
@@ -1822,11 +1822,7 @@
                 "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
             ],
             "Characteristics": [],
-            "Work Orders": [
-                "1024694: Correct to work center.",
-                "1026643: Correct to work center.",
-                "1024692: Correct to work center."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-44139": {
@@ -2215,17 +2211,6 @@
                 true
             ],
             [
-                "1016363",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20180803",
-                "",
-                "MM-COST",
-                false
-            ],
-            [
                 "1018372",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -2292,17 +2277,6 @@
                 true
             ],
             [
-                "1026644",
-                "PM22",
-                "F0155 Annual Inspection",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20210813",
-                "20210813",
-                "",
-                false
-            ],
-            [
                 "1018376",
                 "PM21",
                 "RMA to Vaisala for Repair & Calibration",
@@ -2321,8 +2295,30 @@
                 "UNPL",
                 "20210814",
                 "20210814",
-                "",
-                false
+                "MM-AT10",
+                true
+            ],
+            [
+                "1026644",
+                "PM22",
+                "F0155 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20210813",
+                "20210813",
+                "MM-AT10",
+                true
+            ],
+            [
+                "1016363",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20180803",
+                "20180803",
+                "MM-AT10",
+                true
             ]
         ],
         "notes": {
@@ -2331,11 +2327,7 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1016363: Missing full time confirmation on work order.",
-                "1016363: Missing actual finish date.",
-                "1004656: Missing time confirmation on work order.",
-                "1026644: Correct to work center.",
-                "1024692: Correct to work center."
+                "1004656: Missing time confirmation on work order."
             ]
         }
     },
@@ -2346,7 +2338,7 @@
         "buoy_lat": "42.505000",
         "buoy_long": "-64.018000",
         "buoy_type": "3M_WM500",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-44150",
             "tech": "F0155",
@@ -2790,8 +2782,8 @@
                 "UNPL",
                 "20210813",
                 "20210813",
-                "",
-                false
+                "MM-AT10",
+                true
             ],
             [
                 "1026645",
@@ -2801,17 +2793,14 @@
                 "UNPL",
                 "20210812",
                 "20210812",
-                "",
-                false
+                "MM-AT10",
+                true
             ]
         ],
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1024694: Correct to work center.",
-                "1026645: Correct to work center."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-44258": {
@@ -3145,17 +3134,6 @@
                 true
             ],
             [
-                "1012375",
-                "PM21",
-                "Correction of Sub-equipment MMRs",
-                "TECO GMPS NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-AT10",
-                false
-            ],
-            [
                 "1021516",
                 "PM21",
                 "Replace Wave Sensor 3DFoam 44258",
@@ -3255,17 +3233,6 @@
                 true
             ],
             [
-                "1029968",
-                "PM21",
-                "wind 1 needed replaced",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210811",
-                "20210811",
-                "",
-                false
-            ],
-            [
                 "1030619",
                 "PM21",
                 "buoy hull swap",
@@ -3275,6 +3242,28 @@
                 "20211012",
                 "",
                 false
+            ],
+            [
+                "1029968",
+                "PM21",
+                "wind 1 needed replaced",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210811",
+                "20210811",
+                "MM-AT10",
+                true
+            ],
+            [
+                "1012375",
+                "PM21",
+                "Correction of Sub-equipment MMRs",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20170831",
+                "20170831",
+                "MM-AT10",
+                true
             ]
         ],
         "notes": {
@@ -3284,10 +3273,6 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1012375: Missing time confirmation on work order.",
-                "1012375: Missing actual start date.",
-                "1012375: Missing actual finish date.",
-                "1029968: Correct to work center.",
                 "1030619: Correct to work center."
             ]
         }
@@ -9952,102 +9937,14 @@
         "buoy_wmoid": "45149",
         "buoy_lat": "43.542000",
         "buoy_long": "-82.075000",
-        "buoy_type": "WK_WM100",
-        "valid": false,
+        "buoy_type": "default",
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-45149",
             "tech": "F0155",
             "desc": "SOUTHERN LAKE HURON(BAYFIELD)",
             "valid": true,
-            "descendants": [
-                {
-                    "id": "20133178",
-                    "tech": "E5010",
-                    "desc": "AXYS,MOORED BUOY,1.7m WATCHKEEPER",
-                    "valid": true,
-                    "descendants": [
-                        {
-                            "id": "20143023",
-                            "tech": "E5030",
-                            "desc": "HARSH/SYNERGETICS,ANT-GOES/ARGOS,14A-NS",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20147771",
-                            "tech": "E5245",
-                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20164762",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05103",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20197041",
-                            "tech": "E5090",
-                            "desc": "AXYS,POWER DISTRIB. MOD,1.7m WK BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20232747",
-                            "tech": "E5430",
-                            "desc": "AXYS,WATER TEMPERATURE SENSOR,1.7m BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131283",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,1.7m WK BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20132048",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20130934",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20131481",
-                            "tech": "E5105",
-                            "desc": "AXYS,XMTR MODULE,1.7m WK BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131588",
-                                    "tech": "E5395",
-                                    "desc": "SUTRON,HDR XMTR,40W SATLINK2 SL2-B40W-1",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20132236",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        }
-                    ]
-                }
-            ]
+            "descendants": []
         },
         "characteristics": {
             "WMO ID": [
@@ -10263,17 +10160,6 @@
         },
         "work_orders": [
             [
-                "1009241",
-                "PM21",
-                "Winterize Hull 0100-7",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20161222",
-                "20161222",
-                "MM-ON10",
-                true
-            ],
-            [
                 "1009237",
                 "PM21",
                 "Winterize Hull WKH 00311",
@@ -10292,17 +10178,6 @@
                 "UNPL",
                 "20190201",
                 "20190204",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1018303",
-                "PM21",
-                "Winterization 45154 N Channel E - 0100-7",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20181218",
-                "20181218",
                 "MM-ON10",
                 true
             ],
@@ -10329,50 +10204,6 @@
                 true
             ],
             [
-                "1022507",
-                "PM21",
-                "Winterization of Bayfield Buoy",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20191210",
-                "20191210",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1013600",
-                "PM21",
-                "Winterization of North Channel East",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20171205",
-                "20171205",
-                "MM-COST",
-                true
-            ],
-            [
-                "1014398",
-                "PM21",
-                "SST and Wave module replaced",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20170511",
-                "20170511",
-                "MM-COST",
-                true
-            ],
-            [
-                "1007915",
-                "PM21",
-                "Populate Buoy 45154",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20161024",
-                "20161024",
-                "MM-COST",
-                true
-            ],
-            [
                 "1004784",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -10380,61 +10211,6 @@
                 "UNPL",
                 "20160406",
                 "20160406",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1011660",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20170503",
-                "20170503",
-                "MM-COST",
-                true
-            ],
-            [
-                "1012106",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20180321",
-                "20180321",
-                "MM-COST",
-                true
-            ],
-            [
-                "1015952",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20190425",
-                "20190425",
-                "MM-COST",
-                true
-            ],
-            [
-                "1021222",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200304",
-                "20200304",
-                "MM-COST",
-                true
-            ],
-            [
-                "1012185",
-                "PM21",
-                "removal from the parent equipment",
-                "CLSD DLFL GMPS NMAT PRC",
-                "UNPL CANC",
-                "",
-                "",
                 "MM-ON10",
                 true
             ],
@@ -10447,28 +10223,6 @@
                 "20210311",
                 "20210311",
                 "MM-ON10",
-                true
-            ],
-            [
-                "1027076",
-                "PM21",
-                "45149 Bayfield Winterization 20201216",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20201216",
-                "20201216",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1023647",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210310",
-                "20210310",
-                "MM-COST",
                 true
             ],
             [
@@ -10495,14 +10249,9 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5110 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 0 E5435 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1012185: Missing time confirmation on work order."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-45150": {
