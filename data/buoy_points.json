@@ -69,8 +69,8 @@
             "WMOID": "44137",
             "Name": "EAST SCOTIA SLOPE",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
-            "_flocstruct": false,
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
@@ -88,8 +88,8 @@
             "WMOID": "44139",
             "Name": "BANQUEREAU BANK",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
-            "_flocstruct": false,
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
@@ -583,7 +583,7 @@
             "Name": "SOUTH NOMAD",
             "Buoy Type": "3M_WM100",
             "Valid": false,
-            "_flocstruct": false,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": false
         }

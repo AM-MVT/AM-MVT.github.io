@@ -1346,7 +1346,7 @@
         "buoy_lat": "42.26126",
         "buoy_long": "-61.998518",
         "buoy_type": "3M_WM100",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-44137",
             "tech": "F0155",
@@ -1818,9 +1818,7 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": []
         }
@@ -1832,7 +1830,7 @@
         "buoy_lat": "44.240000",
         "buoy_long": "-57.1033333",
         "buoy_type": "3M_WM100",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-44139",
             "tech": "F0155",
@@ -2322,9 +2320,7 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": []
         }
@@ -13916,9 +13912,7 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": [
                 "1004999: Missing full time confirmation on work order.",
