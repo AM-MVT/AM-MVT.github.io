@@ -163,7 +163,7 @@
         "properties": {
             "WMOID": "45135",
             "Name": "PRINCE EDWARD PT",
-            "Buoy Type": "3M_WM500",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
@@ -372,9 +372,9 @@
         "properties": {
             "WMOID": "45147",
             "Name": "LAKE ST. CLAIR",
-            "Buoy Type": "WK_WM500",
+            "Buoy Type": "default",
             "Valid": false,
-            "_flocstruct": false,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": false
         }
