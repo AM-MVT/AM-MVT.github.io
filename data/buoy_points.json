@@ -144,7 +144,7 @@
         "properties": {
             "WMOID": "45132",
             "Name": "PORT STANLEY",
-            "Buoy Type": "3M_WM500",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
@@ -296,7 +296,7 @@
         "properties": {
             "WMOID": "45142",
             "Name": "PORT COLBORNE",
-            "Buoy Type": "3M_WM500",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
@@ -448,9 +448,9 @@
         "properties": {
             "WMOID": "45151",
             "Name": "LAKE SIMCOE",
-            "Buoy Type": "WK_WM500",
-            "Valid": false,
-            "_flocstruct": false,
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
@@ -467,9 +467,9 @@
         "properties": {
             "WMOID": "45152",
             "Name": "LAKE NIPISSING",
-            "Buoy Type": "WK_WM500",
-            "Valid": false,
-            "_flocstruct": false,
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
