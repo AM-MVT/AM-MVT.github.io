@@ -7204,138 +7204,14 @@
         "buoy_wmoid": "45143",
         "buoy_lat": "44.944873",
         "buoy_long": "-80.626773",
-        "buoy_type": "3M_WM100",
-        "valid": false,
+        "buoy_type": "default",
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-45143",
             "tech": "F0155",
             "desc": "SOUTH GEORGIAN BAY",
             "valid": true,
-            "descendants": [
-                {
-                    "id": "20133265",
-                    "tech": "E5010",
-                    "desc": "PROF COMPONENTS,MOORED BUOY,3M DISCUS",
-                    "valid": true,
-                    "descendants": [
-                        {
-                            "id": "20143014",
-                            "tech": "E5030",
-                            "desc": "HARSH/SYNERGETICS,ANT-GOES/ARGOS,14A-NS",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20163665",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20164800",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05103",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20168193",
-                            "tech": "E5430",
-                            "desc": "AXYS,WATER TEMP SENSOR,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20130736",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,3m & NOMAD BUO",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20130874",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20131382",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20132045",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20132046",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20131088",
-                            "tech": "E5450",
-                            "desc": "VAISALA,WIND SENSOR-ULTRASONIC,WS425",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131295",
-                            "tech": "E5090",
-                            "desc": "AXYS,POWER DISTRIB. MOD,3m BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131310",
-                            "tech": "E5110",
-                            "desc": "AXYS,WAVE MOD,1.7m WK/3m/6m NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20166507",
-                                    "tech": "E5435",
-                                    "desc": "JEWELL,WAVE SENSOR,LCM100",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20131993",
-                            "tech": "E5245",
-                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20132030",
-                            "tech": "E5105",
-                            "desc": "AXYS,XMTR MODULE,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131314",
-                                    "tech": "E5395",
-                                    "desc": "SUTRON,HDR XMTR,40W SATLINK2 SL2-B40W-1",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "descendants": []
         },
         "characteristics": {
             "WMO ID": [
@@ -7595,28 +7471,6 @@
                 true
             ],
             [
-                "1022586",
-                "PM21",
-                "Winterization of South Georgian Bay",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20191210",
-                "",
-                "MM-ON10",
-                false
-            ],
-            [
-                "1015128",
-                "PM21",
-                "Attachment of lifting sling",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20180430",
-                "20180430",
-                "MM-COST",
-                true
-            ],
-            [
                 "1004782",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -7659,70 +7513,12 @@
                 "20190328",
                 "MM-ON10",
                 true
-            ],
-            [
-                "1021219",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200302",
-                "20200302",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1015155",
-                "PM21",
-                "2018-05-09 Buoy had wrong Bin of 16. Cor",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20180510",
-                "20180510",
-                "MM-COST",
-                true
-            ],
-            [
-                "1023691",
-                "PM21",
-                "Water temp and level sensor replacements",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200427",
-                "20200427",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1023682",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20210309",
-                "20210309",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1026992",
-                "PM21",
-                "45143-S.Georgian-Winterization-20201214",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20201215",
-                "20201215",
-                "MM-ON10",
-                true
             ]
         ],
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1022586: Missing full time confirmation on work order.",
-                "1022586: Missing actual finish date."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-45144": {

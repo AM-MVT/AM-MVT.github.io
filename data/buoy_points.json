@@ -315,11 +315,11 @@
         "properties": {
             "WMOID": "45143",
             "Name": "SOUTH GEORGIAN BAY",
-            "Buoy Type": "3M_WM100",
-            "Valid": false,
+            "Buoy Type": "default",
+            "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
