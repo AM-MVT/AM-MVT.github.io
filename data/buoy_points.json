@@ -239,7 +239,7 @@
         "properties": {
             "WMOID": "45139",
             "Name": "WEST LAKE ONTARIO",
-            "Buoy Type": "3M_WM500",
+            "Buoy Type": "default",
             "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
@@ -486,9 +486,9 @@
         "properties": {
             "WMOID": "45154",
             "Name": "NORTH CHANNEL EAST",
-            "Buoy Type": "WK_WM500",
-            "Valid": false,
-            "_flocstruct": false,
+            "Buoy Type": "default",
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
