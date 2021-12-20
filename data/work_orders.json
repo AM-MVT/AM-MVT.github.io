@@ -19856,17 +19856,6 @@
             true
         ],
         [
-            "1010642",
-            "PM22",
-            "E5010 Annual Inspection",
-            "TECO CNF  GMPS NMAT PRC",
-            "UNPL",
-            "20210311",
-            "20210311",
-            "MM-ON10",
-            true
-        ],
-        [
             "1026336",
             "PM21",
             "Work order created to issue buoy from SL",
@@ -22504,6 +22493,17 @@
             "20211117",
             "20211117",
             "MM-AT10",
+            true
+        ],
+        [
+            "1010642",
+            "PM22",
+            "E5010 Annual Inspection",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20210311",
+            "20210311",
+            "MM-ON10",
             true
         ]
     ]
