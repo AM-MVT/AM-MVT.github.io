@@ -5930,17 +5930,6 @@
             true
         ],
         [
-            "1027798",
-            "PM21",
-            "Replace Payload/WM500 Upgrade",
-            "TECO CNF  GMPS NMAT PRC",
-            "UNPL",
-            "20210408",
-            "20210408",
-            "MM-ON10",
-            true
-        ],
-        [
             "1024989",
             "PM21",
             "annual service for WS425",
@@ -22515,6 +22504,17 @@
             "20211206",
             "20211206",
             "MM-QB10",
+            true
+        ],
+        [
+            "1027798",
+            "PM21",
+            "Replace Payload/WM500 Upgrade",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20210408",
+            "20210408",
+            "MM-ON10",
             true
         ]
     ]
