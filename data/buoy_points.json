@@ -129,7 +129,7 @@
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {

@@ -2845,10 +2845,24 @@
                                     "descendants": []
                                 },
                                 {
+                                    "id": "20277921",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": false,
+                                    "descendants": []
+                                },
+                                {
                                     "id": "20012949",
                                     "tech": "E5300",
                                     "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": false,
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20013399",
+                                    "tech": "E5300",
+                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
+                                    "valid": true,
                                     "descendants": []
                                 }
                             ]
@@ -3247,28 +3261,14 @@
                 "20170831",
                 "MM-AT10",
                 true
-            ],
-            [
-                "1030619",
-                "PM21",
-                "buoy hull swap",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20211012",
-                "20211012",
-                "",
-                false
             ]
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5125 are attached. Per standard there should be 2.",
-                "ERROR (Count Violation): Currently 1 E5300 are attached. Per standard there should be 2."
+                "ERROR (Count Violation): Currently 1 E5125 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
-            "Work Orders": [
-                "1030619: Correct to work center."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-45132": {
