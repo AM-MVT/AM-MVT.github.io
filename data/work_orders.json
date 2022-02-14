@@ -21077,17 +21077,6 @@
             true
         ],
         [
-            "1012611",
-            "PM23",
-            "AUC Overhaul 3M Buoy hulls EMR 20133259",
-            "LKD  TECO CNF  GMPS NMAT PRC  SETC",
-            "UNPL",
-            "20180201",
-            "20200515",
-            "MM-COST",
-            true
-        ],
-        [
             "1027652",
             "PM21",
             "PTB210 Calibration SN: B2510011",
@@ -21260,17 +21249,6 @@
             "UNPL",
             "20160517",
             "20160517",
-            "MM-COST",
-            true
-        ],
-        [
-            "1007503",
-            "PM23",
-            "AUC - Moored Buoy (ODAS) Network LCM",
-            "LKD  TECO CNF  GMPS NMAT PRC  SETC",
-            "UNPL",
-            "20170330",
-            "20170331",
             "MM-COST",
             true
         ],
@@ -22625,6 +22603,72 @@
             "",
             "",
             "AM-PY11",
+            true
+        ],
+        [
+            "1031226",
+            "PM21",
+            "Winterization of PEP",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20211214",
+            "20211214",
+            "MM-ON10",
+            true
+        ],
+        [
+            "1007503",
+            "PM23",
+            "AUC - Moored Buoy (ODAS) Network LCM",
+            "TECO CNF  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "20170330",
+            "20170331",
+            "MM-COST",
+            true
+        ],
+        [
+            "1012611",
+            "PM23",
+            "AUC Overhaul 3M Buoy hulls EMR 20133259",
+            "TECO CNF  GMPS NMAT PRC  SETC",
+            "UNPL",
+            "20180201",
+            "20200515",
+            "MM-COST",
+            true
+        ],
+        [
+            "1030945",
+            "PM21",
+            "End of Season Maintenance - 45150",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20211115",
+            "20211115",
+            "MM-PN10",
+            true
+        ],
+        [
+            "1030946",
+            "PM21",
+            "End of Season Maintenance - 45141",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20211115",
+            "20211115",
+            "MM-PN10",
+            true
+        ],
+        [
+            "1031224",
+            "PM21",
+            "Winterization of Lake St. Clair 45147",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20211207",
+            "20220210",
+            "MM-ON10",
             true
         ]
     ]

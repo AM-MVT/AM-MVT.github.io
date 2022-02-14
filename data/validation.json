@@ -4150,159 +4150,14 @@
         "buoy_wmoid": "45136",
         "buoy_lat": "48.535000",
         "buoy_long": "-86.952700",
-        "buoy_type": "3M_WM100",
+        "buoy_type": "default",
         "valid": false,
         "f_structure": {
             "id": "07-BUOY-XX-45136",
             "tech": "F0155",
             "desc": "SLATE ISLAND",
             "valid": true,
-            "descendants": [
-                {
-                    "id": "20133266",
-                    "tech": "E5010",
-                    "desc": "AXYS,MOORED BUOY,3m DISCUS",
-                    "valid": true,
-                    "descendants": [
-                        {
-                            "id": "20149256",
-                            "tech": "E5030",
-                            "desc": "HARSH/SYNERGETICS,ANT-GOES/ARGOS,14A-NS",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20159238",
-                            "tech": "E5450",
-                            "desc": "VAISALA,WIND SENSOR-ULTRASONIC,WMT702",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20163667",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20168191",
-                            "tech": "E5430",
-                            "desc": "AXYS,WATER TEMP SENSOR,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20170440",
-                            "tech": "E5090",
-                            "desc": "AXYS,POWER DISTRIB. MOD,3m BUOY",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20188304",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,3m & NOMAD BUO",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20014023",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20014119",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20188288",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20188290",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20014046",
-                            "tech": "E5245",
-                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20115431",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05103",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131427",
-                            "tech": "E5370",
-                            "desc": "SOLARA,SOLAR PANEL,SM200S/M55",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131431",
-                            "tech": "E5370",
-                            "desc": "SOLARA,SOLAR PANEL,SM200S/M55",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131433",
-                            "tech": "E5370",
-                            "desc": "SOLARA,SOLAR PANEL,SM200S/M55",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20131789",
-                            "tech": "E5110",
-                            "desc": "AXYS,WAVE MOD,1.7m WK/3m/6m NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20263449",
-                                    "tech": "E5435",
-                                    "desc": "JEWELL,WAVE SENSOR,LCM100",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20132034",
-                            "tech": "E5105",
-                            "desc": "AXYS,XMTR MODULE,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131590",
-                                    "tech": "E5395",
-                                    "desc": "SUTRON,HDR XMTR,40W SATLINK2 SL2-B40W-1",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "descendants": []
         },
         "characteristics": {
             "WMO ID": [
@@ -4562,28 +4417,6 @@
                 true
             ],
             [
-                "1009236",
-                "PM21",
-                "Winterizing Hull 3D07",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20161221",
-                "20161221",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1013732",
-                "PM21",
-                "Winterization of Georgian Bay ODAS",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20171205",
-                "20171205",
-                "MM-ON10",
-                true
-            ],
-            [
                 "1009240",
                 "PM21",
                 "Winterize Hull WKH 3D09",
@@ -4628,17 +4461,6 @@
                 true
             ],
             [
-                "1004791",
-                "PM21",
-                "Populate Buoy",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20160121",
-                "20160121",
-                "MM-ON10",
-                true
-            ],
-            [
                 "1017520",
                 "PM21",
                 "Slate Island intermittent issue",
@@ -4672,17 +4494,6 @@
                 true
             ],
             [
-                "1006600",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20170411",
-                "20170411",
-                "MM-ON10",
-                true
-            ],
-            [
                 "1006602",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -4690,17 +4501,6 @@
                 "UNPL",
                 "20170411",
                 "20170413",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1004779",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20160408",
-                "20160408",
                 "MM-ON10",
                 true
             ],
@@ -4738,28 +4538,6 @@
                 true
             ],
             [
-                "1012104",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200506",
-                "20200506",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1017223",
-                "PM21",
-                "Buoy Dismantle for Refurb",
-                "CLSD DLFL NMAT PRC",
-                "UNPL CANC",
-                "",
-                "",
-                "MM-COST",
-                true
-            ],
-            [
                 "1020557",
                 "PM23",
                 "AUC - Refurbishment (upgrade) of 3m buoy",
@@ -4778,17 +4556,6 @@
                 "UNPL",
                 "20210210",
                 "20210210",
-                "MM-ON10",
-                true
-            ],
-            [
-                "1026895",
-                "PM21",
-                "Winterization inspection 45136 Slate",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20201202",
-                "20201202",
                 "MM-ON10",
                 true
             ],

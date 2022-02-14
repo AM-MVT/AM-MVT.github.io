@@ -182,7 +182,7 @@
         "properties": {
             "WMOID": "45136",
             "Name": "SLATE ISLAND",
-            "Buoy Type": "3M_WM100",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
