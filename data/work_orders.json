@@ -22670,6 +22670,61 @@
             "20220210",
             "MM-ON10",
             true
+        ],
+        [
+            "1028336",
+            "PM21",
+            "Barometer - Removed from the Bartlett",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031758",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: F0410018",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031757",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630235",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031752",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630238",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031751",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630239",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
         ]
     ]
 }
