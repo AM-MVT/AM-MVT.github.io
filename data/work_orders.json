@@ -19933,17 +19933,6 @@
             true
         ],
         [
-            "1023682",
-            "PM22",
-            "E5010 Annual Inspection",
-            "TECO CNF  GMPS NMAT PRC",
-            "UNPL",
-            "20210309",
-            "20210309",
-            "MM-ON10",
-            true
-        ],
-        [
             "1026336",
             "PM21",
             "Work order created to issue buoy from SL",
@@ -20153,6 +20142,39 @@
             true
         ],
         [
+            "1028336",
+            "PM21",
+            "Barometer - Removed from the Bartlett",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031758",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: F0410018",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
+            "1031757",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630235",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
+            true
+        ],
+        [
             "1026239",
             "PM21",
             "Intervention for T/Rh + Eprom upgrade",
@@ -20282,6 +20304,17 @@
             "20190516",
             "20190516",
             "MM-QB10",
+            true
+        ],
+        [
+            "1031752",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630238",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
             true
         ],
         [
@@ -20601,6 +20634,17 @@
             "20210225",
             "20210225",
             "MM-ON10",
+            true
+        ],
+        [
+            "1031751",
+            "PM21",
+            "Vaisala PTB210 Calibration SN: S0630239",
+            "TECO CNF  NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220204",
+            "AM-OSE",
             true
         ],
         [
@@ -22672,58 +22716,25 @@
             true
         ],
         [
-            "1028336",
-            "PM21",
-            "Barometer - Removed from the Bartlett",
-            "TECO CNF  NMAT PRC",
+            "1029179",
+            "PM23",
+            "AUC AXYS,AVOS PAYLOAD,WM500",
+            "TECO CNF  GMPS NMAT PRC  SETC",
             "UNPL",
-            "20220128",
-            "20220204",
-            "AM-OSE",
+            "20210707",
+            "20210714",
+            "MM-COST",
             true
         ],
         [
-            "1031758",
-            "PM21",
-            "Vaisala PTB210 Calibration SN: F0410018",
-            "TECO CNF  NMAT PRC",
+            "1023682",
+            "PM22",
+            "E5010 Annual Inspection",
+            "TECO CNF  GMPS NMAT PRC",
             "UNPL",
-            "20220128",
-            "20220204",
-            "AM-OSE",
-            true
-        ],
-        [
-            "1031757",
-            "PM21",
-            "Vaisala PTB210 Calibration SN: S0630235",
-            "TECO CNF  NMAT PRC",
-            "UNPL",
-            "20220128",
-            "20220204",
-            "AM-OSE",
-            true
-        ],
-        [
-            "1031752",
-            "PM21",
-            "Vaisala PTB210 Calibration SN: S0630238",
-            "TECO CNF  NMAT PRC",
-            "UNPL",
-            "20220128",
-            "20220204",
-            "AM-OSE",
-            true
-        ],
-        [
-            "1031751",
-            "PM21",
-            "Vaisala PTB210 Calibration SN: S0630239",
-            "TECO CNF  NMAT PRC",
-            "UNPL",
-            "20220128",
-            "20220204",
-            "AM-OSE",
+            "20210309",
+            "20210309",
+            "MM-ON10",
             true
         ]
     ]
