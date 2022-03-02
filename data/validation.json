@@ -14562,7 +14562,7 @@
         "buoy_wmoid": "46183",
         "buoy_lat": "53.617000",
         "buoy_long": "-131.105000",
-        "buoy_type": "3M_WM100",
+        "buoy_type": "default",
         "valid": false,
         "f_structure": {
             "id": "07-BUOY-XX-46183",
@@ -14574,27 +14574,27 @@
                     "id": "20133256",
                     "tech": "E5010",
                     "desc": "PROF COMPONENTS,MOORED BUOY,3M DISCUS",
-                    "valid": true,
+                    "valid": false,
                     "descendants": [
                         {
                             "id": "20188690",
                             "tech": "E5450",
                             "desc": "VAISALA,WIND SENSOR-ULTRASONIC,WMT702",
-                            "valid": true,
+                            "valid": false,
                             "descendants": []
                         },
                         {
                             "id": "20210853",
                             "tech": "E5030",
                             "desc": "HARSH/SYNERGETICS,ANT-GOES/ARGOS,14A-NS",
-                            "valid": true,
+                            "valid": false,
                             "descendants": []
                         },
                         {
                             "id": "20252641",
                             "tech": "E5450",
                             "desc": "RM YOUNG,WIND SENSOR,05106",
-                            "valid": true,
+                            "valid": false,
                             "descendants": []
                         },
                         {
@@ -14608,50 +14608,14 @@
                             "id": "20266147",
                             "tech": "E5085",
                             "desc": "XEOS,IRIDIUM BEACON,MELO",
-                            "valid": true,
+                            "valid": false,
                             "descendants": []
-                        },
-                        {
-                            "id": "20131182",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,3m & NOMAD BUO",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131387",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20131400",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20013402",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20014036",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
                         },
                         {
                             "id": "20131323",
                             "tech": "E5110",
                             "desc": "AXYS,WAVE MOD,1.7m WK/3m/6m NOMAD BUOY",
-                            "valid": true,
+                            "valid": false,
                             "descendants": []
                         },
                         {
@@ -14969,11 +14933,14 @@
         ],
         "notes": {
             "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 0 E5020 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 0 E5105 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 0 E5395 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 2 E5430 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 0 E5435 are attached. Per standard there should be 1."
+                "ERROR (Standard Violation): E5010 is not apart of the standard.",
+                "ERROR (Standard Violation): E5450 is not apart of the standard.",
+                "ERROR (Standard Violation): E5030 is not apart of the standard.",
+                "ERROR (Standard Violation): E5450 is not apart of the standard.",
+                "ERROR (Standard Violation): E5430 is not apart of the standard.",
+                "ERROR (Standard Violation): E5085 is not apart of the standard.",
+                "ERROR (Standard Violation): E5110 is not apart of the standard.",
+                "ERROR (Standard Violation): E5430 is not apart of the standard."
             ],
             "Characteristics": [],
             "Work Orders": [

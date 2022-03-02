@@ -714,7 +714,7 @@
         "properties": {
             "WMOID": "46183",
             "Name": "NORTH HECATE STRAIT",
-            "Buoy Type": "3M_WM100",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
