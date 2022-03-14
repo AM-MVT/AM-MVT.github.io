@@ -15273,17 +15273,6 @@
         },
         "work_orders": [
             [
-                "1007188",
-                "PM21",
-                "Buoy unscheduled maintenance",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20160831",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1005057",
                 "PM21",
                 "Populate Station",
@@ -15293,17 +15282,6 @@
                 "20160211",
                 "MM-PY10",
                 true
-            ],
-            [
-                "1025216",
-                "PM21",
-                "Buoy overhaul",
-                "TECO NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-PY10",
-                false
             ],
             [
                 "1004997",
@@ -15350,28 +15328,6 @@
                 true
             ],
             [
-                "1005063",
-                "PM21",
-                "Populate Station",
-                "CLSD NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
-                "1008900",
-                "PM22",
-                "E5010 Annual Inspection",
-                "CLSD NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1020514",
                 "PM21",
                 "Refurbishing buoy hull",
@@ -15392,6 +15348,39 @@
                 "20210510",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1007188",
+                "PM21",
+                "Buoy unscheduled maintenance",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160831",
+                "20170901",
+                "MM-PY10",
+                true
+            ],
+            [
+                "1008900",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20190208",
+                "20190211",
+                "MM-PY10",
+                true
+            ],
+            [
+                "1005063",
+                "PM21",
+                "Populate Station",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160212",
+                "20160212",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
@@ -15401,21 +15390,10 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1007188: Missing full time confirmation on work order.",
-                "1007188: Missing actual finish date.",
-                "1025216: Missing time confirmation on work order.",
-                "1025216: Missing actual start date.",
-                "1025216: Missing actual finish date.",
                 "1004997: Missing full time confirmation on work order.",
                 "1004997: Missing actual finish date.",
                 "1005000: Missing full time confirmation on work order.",
-                "1005000: Missing actual finish date.",
-                "1005063: Flag on work order do not reflect a properly closed or complete work order.",
-                "1005063: Missing actual start date.",
-                "1005063: Missing actual finish date.",
-                "1008900: Flag on work order do not reflect a properly closed or complete work order.",
-                "1008900: Missing actual start date.",
-                "1008900: Missing actual finish date."
+                "1005000: Missing actual finish date."
             ]
         }
     },
@@ -17037,17 +17015,6 @@
                 true
             ],
             [
-                "1007188",
-                "PM21",
-                "Buoy unscheduled maintenance",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20160831",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1005057",
                 "PM21",
                 "Populate Station",
@@ -17145,14 +17112,23 @@
                 "20201120",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1007188",
+                "PM21",
+                "Buoy unscheduled maintenance",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160831",
+                "20170901",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": [
-                "1007188: Missing full time confirmation on work order.",
-                "1007188: Missing actual finish date.",
                 "1023041: Missing full time confirmation on work order.",
                 "1023041: Missing actual finish date."
             ]
