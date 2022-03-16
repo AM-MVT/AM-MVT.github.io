@@ -11576,39 +11576,6 @@
                 true
             ],
             [
-                "1005004",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20150504",
-                "",
-                "MM-COST",
-                false
-            ],
-            [
-                "1019287",
-                "PM22",
-                "F0155 Annual Inspection",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20200515",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
-                "1008788",
-                "PM22",
-                "E5010 Annual Inspection",
-                "CLSD NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1005059",
                 "PM21",
                 "Populate Station",
@@ -11640,6 +11607,39 @@
                 "20210507",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1008788",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20171212",
+                "20171213",
+                "MM-PY10",
+                true
+            ],
+            [
+                "1005004",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO PCNF NMAT PRC",
+                "UNPL",
+                "20150504",
+                "",
+                "MM-COST",
+                false
+            ],
+            [
+                "1019287",
+                "PM22",
+                "F0155 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20200515",
+                "20200515",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
@@ -11647,12 +11647,7 @@
             "Characteristics": [],
             "Work Orders": [
                 "1005004: Missing full time confirmation on work order.",
-                "1005004: Missing actual finish date.",
-                "1019287: Missing full time confirmation on work order.",
-                "1019287: Missing actual finish date.",
-                "1008788: Flag on work order do not reflect a properly closed or complete work order.",
-                "1008788: Missing actual start date.",
-                "1008788: Missing actual finish date."
+                "1005004: Missing actual finish date."
             ]
         }
     },
@@ -12028,17 +12023,6 @@
                 false
             ],
             [
-                "1005759",
-                "PM21",
-                "Populate Station",
-                "CLSD NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1019124",
                 "PM21",
                 "Populate Station",
@@ -12059,6 +12043,17 @@
                 "20210507",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1005759",
+                "PM21",
+                "Populate Station",
+                "CLSD DLFL NMAT PRC",
+                "UNPL",
+                "",
+                "",
+                "MM-PY10",
+                false
             ]
         ],
         "notes": {
@@ -14142,7 +14137,7 @@
         "buoy_lat": "53.833000",
         "buoy_long": "-128.831000",
         "buoy_type": "3M_WM100",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-46181",
             "tech": "F0155",
@@ -14481,17 +14476,6 @@
         },
         "work_orders": [
             [
-                "1009603",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20150504",
-                "",
-                "MM-COST",
-                false
-            ],
-            [
                 "1014974",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -14545,15 +14529,23 @@
                 "20210301",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1009603",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20150504",
+                "20150504",
+                "MM-COST",
+                true
             ]
         ],
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1009603: Missing full time confirmation on work order.",
-                "1009603: Missing actual finish date."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-46183": {
@@ -14876,17 +14868,6 @@
                 true
             ],
             [
-                "1024251",
-                "PM21",
-                "Buoy disassembly",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20190619",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1018949",
                 "PM21",
                 "Assembly and Populate Station",
@@ -14929,6 +14910,17 @@
                 "20210105",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1024251",
+                "PM21",
+                "Buoy disassembly",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190619",
+                "20190619",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
@@ -14943,10 +14935,7 @@
                 "ERROR (Standard Violation): E5430 is not apart of the standard."
             ],
             "Characteristics": [],
-            "Work Orders": [
-                "1024251: Missing full time confirmation on work order.",
-                "1024251: Missing actual finish date."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-46184": {
@@ -15284,28 +15273,6 @@
                 true
             ],
             [
-                "1004997",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20160429",
-                "",
-                "MM-COST",
-                false
-            ],
-            [
-                "1005000",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO PCNF NMAT PRC",
-                "UNPL",
-                "20150504",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1019296",
                 "PM22",
                 "F0155 Annual Inspection",
@@ -15381,6 +15348,28 @@
                 "20160212",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1005000",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO PCNF NMAT PRC",
+                "UNPL",
+                "20150504",
+                "",
+                "MM-PY10",
+                false
+            ],
+            [
+                "1004997",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO PCNF NMAT PRC",
+                "UNPL",
+                "20160429",
+                "",
+                "MM-COST",
+                false
             ]
         ],
         "notes": {
@@ -15390,10 +15379,10 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1004997: Missing full time confirmation on work order.",
-                "1004997: Missing actual finish date.",
                 "1005000: Missing full time confirmation on work order.",
-                "1005000: Missing actual finish date."
+                "1005000: Missing actual finish date.",
+                "1004997: Missing full time confirmation on work order.",
+                "1004997: Missing actual finish date."
             ]
         }
     },
@@ -16157,28 +16146,6 @@
         },
         "work_orders": [
             [
-                "1019125",
-                "PM21",
-                "Populate Station",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20190227",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
-                "1024251",
-                "PM21",
-                "Buoy disassembly",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20190619",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1005003",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -16199,6 +16166,28 @@
                 "20210301",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1019125",
+                "PM21",
+                "Populate Station",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190227",
+                "20190227",
+                "MM-PY10",
+                true
+            ],
+            [
+                "1024251",
+                "PM21",
+                "Buoy disassembly",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190619",
+                "20190619",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
@@ -16208,10 +16197,6 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1019125: Missing full time confirmation on work order.",
-                "1019125: Missing actual finish date.",
-                "1024251: Missing full time confirmation on work order.",
-                "1024251: Missing actual finish date.",
                 "1005003: Missing full time confirmation on work order.",
                 "1005003: Missing actual finish date."
             ]
@@ -16665,7 +16650,7 @@
         "buoy_lat": "48.835000",
         "buoy_long": "-125.998000",
         "buoy_type": "3M_WM100",
-        "valid": false,
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-46206",
             "tech": "F0155",
@@ -17092,17 +17077,6 @@
                 true
             ],
             [
-                "1023041",
-                "PM21",
-                "Assembling and populating buoy",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20200908",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1026916",
                 "PM21",
                 "Buoy hull replacement",
@@ -17123,15 +17097,23 @@
                 "20170901",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1023041",
+                "PM21",
+                "Assembling and populating buoy",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20200908",
+                "20200908",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1023041: Missing full time confirmation on work order.",
-                "1023041: Missing actual finish date."
-            ]
+            "Work Orders": []
         }
     },
     "07-BUOY-XX-46207": {
@@ -17964,17 +17946,6 @@
                 true
             ],
             [
-                "1019125",
-                "PM21",
-                "Populate Station",
-                "TECO PCNF GMPS NMAT PRC",
-                "UNPL",
-                "20190227",
-                "",
-                "MM-PY10",
-                false
-            ],
-            [
                 "1006436",
                 "PM21",
                 "Populate Station",
@@ -18050,6 +18021,17 @@
                 "",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1019125",
+                "PM21",
+                "Populate Station",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190227",
+                "20190227",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
@@ -18058,8 +18040,6 @@
             ],
             "Characteristics": [],
             "Work Orders": [
-                "1019125: Missing full time confirmation on work order.",
-                "1019125: Missing actual finish date.",
                 "1005003: Missing full time confirmation on work order.",
                 "1005003: Missing actual finish date.",
                 "1006457: Flag on work order do not reflect a properly closed or complete work order.",

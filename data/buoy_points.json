@@ -696,10 +696,10 @@
             "WMOID": "46181",
             "Name": "NANAKWA SHOAL",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
+            "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
@@ -718,7 +718,7 @@
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
@@ -810,10 +810,10 @@
             "WMOID": "46206",
             "Name": "LA PEROUSE BANK",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
+            "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
