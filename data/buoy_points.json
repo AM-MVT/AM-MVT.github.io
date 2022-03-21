@@ -563,10 +563,10 @@
             "WMOID": "46004",
             "Name": "MIDDLE NOMAD",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
+            "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
@@ -661,7 +661,7 @@
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
@@ -737,7 +737,7 @@
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
@@ -775,7 +775,7 @@
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
