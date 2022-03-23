@@ -753,10 +753,10 @@
             "WMOID": "46185",
             "Name": "SOUTH HECATE STRAIT",
             "Buoy Type": "3M_WM100",
-            "Valid": false,
+            "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": false
+            "_workorder": true
         }
     },
     {
