@@ -6796,6 +6796,17 @@
                 true
             ],
             [
+                "1018837",
+                "PM21",
+                "Removed for rebuild",
+                "TECO CNF  CSER NMAT PRC",
+                "UNPL",
+                "20220302",
+                "20220304",
+                "MM-ON10",
+                true
+            ],
+            [
                 "1019634",
                 "PM22",
                 "F0155 Annual Inspection",
@@ -15715,6 +15726,17 @@
         },
         "work_orders": [
             [
+                "1005001",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20150506",
+                "20150506",
+                "MM-COST",
+                true
+            ],
+            [
                 "1019165",
                 "PM21",
                 "Populate Station",
@@ -15767,17 +15789,6 @@
                 "20210513",
                 "20210513",
                 "MM-PY10",
-                true
-            ],
-            [
-                "1005001",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20150506",
-                "20150506",
-                "MM-COST",
                 true
             ]
         ],
@@ -17439,6 +17450,17 @@
         },
         "work_orders": [
             [
+                "1014973",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20180425",
+                "20180425",
+                "MM-PY10",
+                true
+            ],
+            [
                 "1019164",
                 "PM21",
                 "Populate Station",
@@ -17512,17 +17534,6 @@
                 "UNPL",
                 "20210105",
                 "20210301",
-                "MM-PY10",
-                true
-            ],
-            [
-                "1014973",
-                "PM22",
-                "E5010 Annual Inspection",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20180425",
-                "20180425",
                 "MM-PY10",
                 true
             ]
