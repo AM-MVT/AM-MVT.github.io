@@ -15847,6 +15847,13 @@
                             "descendants": []
                         },
                         {
+                            "id": "20083861",
+                            "tech": "E5450",
+                            "desc": "RM YOUNG,WIND SENSOR,05103",
+                            "valid": false,
+                            "descendants": []
+                        },
+                        {
                             "id": "20130749",
                             "tech": "E5095",
                             "desc": "AXYS,SENSOR PROCESS. MOD,3m & NOMAD BUO",
@@ -15918,6 +15925,13 @@
                                     "descendants": []
                                 }
                             ]
+                        },
+                        {
+                            "id": "20132530",
+                            "tech": "E5450",
+                            "desc": "RM YOUNG,WIND SENSOR,05106",
+                            "valid": false,
+                            "descendants": []
                         }
                     ]
                 }
@@ -16184,7 +16198,7 @@
         "notes": {
             "Functional Location Structure": [
                 "ERROR (Count Violation): Currently 0 E5020 are attached. Per standard there should be 1.",
-                "ERROR (Count Violation): Currently 1 E5450 are attached. Per standard there should be 2."
+                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2."
             ],
             "Characteristics": [],
             "Work Orders": []
@@ -17614,13 +17628,6 @@
                             "descendants": []
                         },
                         {
-                            "id": "20013135",
-                            "tech": "E5450",
-                            "desc": "VAISALA,WIND SENSOR-ULTRASONIC,WMT702",
-                            "valid": false,
-                            "descendants": []
-                        },
-                        {
                             "id": "20013743",
                             "tech": "E5430",
                             "desc": "AXYS,WATER TEMPERATURE SENSOR,HATS",
@@ -17682,14 +17689,14 @@
                             "id": "20132906",
                             "tech": "E5450",
                             "desc": "RM YOUNG,WIND SENSOR,05106",
-                            "valid": false,
+                            "valid": true,
                             "descendants": []
                         },
                         {
                             "id": "20132909",
                             "tech": "E5450",
                             "desc": "RM YOUNG,WIND SENSOR,05106",
-                            "valid": false,
+                            "valid": true,
                             "descendants": []
                         }
                     ]
@@ -18018,12 +18025,32 @@
                 "20160506",
                 "MM-PY10",
                 true
+            ],
+            [
+                "1019302",
+                "PM22",
+                "F0155 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210510",
+                "20210511",
+                "MM-PY10",
+                true
+            ],
+            [
+                "1030074",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210510",
+                "20220331",
+                "MM-PY10",
+                true
             ]
         ],
         "notes": {
-            "Functional Location Structure": [
-                "ERROR (Count Violation): Currently 3 E5450 are attached. Per standard there should be 2."
-            ],
+            "Functional Location Structure": [],
             "Characteristics": [],
             "Work Orders": [
                 "1006457: Flag on work order do not reflect a properly closed or complete work order.",

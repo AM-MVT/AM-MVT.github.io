@@ -849,7 +849,7 @@
             "Name": "WEST MORESBY",
             "Buoy Type": "3M_WM100",
             "Valid": false,
-            "_flocstruct": false,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": false
         }
