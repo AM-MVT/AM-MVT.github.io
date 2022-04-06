@@ -5864,6 +5864,138 @@
             false
         ],
         [
+            "1020939",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020943",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020944",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020950",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020946",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1021852",
+            "PM23",
+            "AUC METOCEAN,IRIDIUM DRFT,POLAR ISVP/B-A",
+            "TECO NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020945",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020947",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020953",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020949",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020952",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020954",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
             "1020138",
             "PM23",
             "AUC  Next Gen Buoy Payload 16",
@@ -21968,17 +22100,6 @@
             true
         ],
         [
-            "1027833",
-            "PM22",
-            "F0160 Annual Inspection",
-            "TECO CNF  GMPS NMAT PRC",
-            "UNPL",
-            "20220323",
-            "20220323",
-            "MM-QB10",
-            true
-        ],
-        [
             "1027850",
             "PM21",
             "Corrective maintenance GPS/Rotronics",
@@ -23318,6 +23439,17 @@
             "20210510",
             "20220331",
             "MM-PY10",
+            true
+        ],
+        [
+            "1027833",
+            "PM22",
+            "F0160 Annual Inspection",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20220323",
+            "20220323",
+            "MM-QB10",
             true
         ]
     ]
