@@ -23,6 +23,105 @@
             false
         ],
         [
+            "1020939",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020943",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020944",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020950",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020946",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1021852",
+            "PM23",
+            "AUC METOCEAN,IRIDIUM DRFT,POLAR ISVP/B-A",
+            "TECO NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020945",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020947",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020953",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
             "1027693",
             "PM21",
             "replace GPS antenna",
@@ -31,6 +130,39 @@
             "20210303",
             "20210303",
             "",
+            false
+        ],
+        [
+            "1020949",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020952",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
+            false
+        ],
+        [
+            "1020954",
+            "PM23",
+            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
+            "TECO GMPS NMAT PRC  SETC",
+            "UNPL",
+            "",
+            "",
+            "MM-COST",
             false
         ],
         [
@@ -5864,138 +5996,6 @@
             false
         ],
         [
-            "1020939",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020943",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020944",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020950",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020946",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1021852",
-            "PM23",
-            "AUC METOCEAN,IRIDIUM DRFT,POLAR ISVP/B-A",
-            "TECO NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020945",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020947",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020953",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020949",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020952",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
-            "1020954",
-            "PM23",
-            "AUC-METOCEAN,IRIDIUM DRFT,POLAR ISVP/",
-            "TECO GMPS NMAT PRC  SETC",
-            "UNPL",
-            "",
-            "",
-            "MM-COST",
-            false
-        ],
-        [
             "1020138",
             "PM23",
             "AUC  Next Gen Buoy Payload 16",
@@ -6036,6 +6036,17 @@
             "UNPL",
             "20210428",
             "20210428",
+            "MM-QB10",
+            true
+        ],
+        [
+            "1027833",
+            "PM22",
+            "F0160 Annual Inspection",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20220323",
+            "20220323",
             "MM-QB10",
             true
         ],
@@ -19900,6 +19911,28 @@
             true
         ],
         [
+            "1031227",
+            "PM21",
+            "Winterization of Slate Island 45136",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20220201",
+            "20220201",
+            "MM-ON10",
+            true
+        ],
+        [
+            "1031330",
+            "PM21",
+            "Winterization of S.Georgian 45143",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20220201",
+            "20220201",
+            "MM-ON10",
+            true
+        ],
+        [
             "1014997",
             "PM23",
             "AUC AVOS INSTALLATION",
@@ -22969,17 +23002,6 @@
             true
         ],
         [
-            "1031759",
-            "PM21",
-            "Intervention for missing data",
-            "TECO CNF  NMAT PRC",
-            "UNPL",
-            "20220128",
-            "20220302",
-            "MM-AT10",
-            true
-        ],
-        [
             "1022313",
             "PM22",
             "F0160 Annual Inspection",
@@ -23442,14 +23464,25 @@
             true
         ],
         [
-            "1027833",
+            "1031759",
+            "PM21",
+            "Intervention for missing data",
+            "TECO CNF  GMPS NMAT PRC",
+            "UNPL",
+            "20220128",
+            "20220302",
+            "MM-AT10",
+            true
+        ],
+        [
+            "1025189",
             "PM22",
             "F0160 Annual Inspection",
             "TECO CNF  GMPS NMAT PRC",
             "UNPL",
-            "20220323",
-            "20220323",
-            "MM-QB10",
+            "20220404",
+            "20220404",
+            "MM-AT10",
             true
         ]
     ]
