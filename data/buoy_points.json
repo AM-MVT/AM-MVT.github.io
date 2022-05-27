@@ -68,9 +68,9 @@
         "properties": {
             "WMOID": "44137",
             "Name": "EAST SCOTIA SLOPE",
-            "Buoy Type": "3M_WM100",
-            "Valid": true,
-            "_flocstruct": true,
+            "Buoy Type": "default",
+            "Valid": false,
+            "_flocstruct": false,
             "_characteristic": true,
             "_workorder": true
         }
@@ -126,8 +126,8 @@
             "WMOID": "44258",
             "Name": "HALIFAX HARBOUR",
             "Buoy Type": "3M_WM500",
-            "Valid": false,
-            "_flocstruct": false,
+            "Valid": true,
+            "_flocstruct": true,
             "_characteristic": true,
             "_workorder": true
         }
@@ -335,10 +335,10 @@
             "WMOID": "45144",
             "Name": "LAKE WINNIPEG N.",
             "Buoy Type": "default",
-            "Valid": true,
+            "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": true
+            "_workorder": false
         }
     },
     {
@@ -392,10 +392,10 @@
             "WMOID": "45148",
             "Name": "LAKE OF THE WOODS",
             "Buoy Type": "default",
-            "Valid": true,
+            "Valid": false,
             "_flocstruct": true,
             "_characteristic": true,
-            "_workorder": true
+            "_workorder": false
         }
     },
     {
@@ -745,8 +745,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -129.792,
-                52.425
+                -130.087167,
+                52.5275
             ]
         },
         "properties": {
@@ -809,7 +809,7 @@
         "properties": {
             "WMOID": "46206",
             "Name": "LA PEROUSE BANK",
-            "Buoy Type": "3M_WM100",
+            "Buoy Type": "default",
             "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
@@ -828,7 +828,7 @@
         "properties": {
             "WMOID": "46207",
             "Name": "EAST DELLWOOD",
-            "Buoy Type": "3M_WM100",
+            "Buoy Type": "default",
             "Valid": false,
             "_flocstruct": false,
             "_characteristic": true,
