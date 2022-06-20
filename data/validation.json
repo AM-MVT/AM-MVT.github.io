@@ -62,13 +62,6 @@
                             "descendants": []
                         },
                         {
-                            "id": "20217689",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
                             "id": "20217690",
                             "tech": "E5634",
                             "desc": "SKYWAVE,XCVR,ISATDATA PRO IDP-690",
@@ -145,6 +138,13 @@
                                     "descendants": []
                                 }
                             ]
+                        },
+                        {
+                            "id": "20141985",
+                            "tech": "E5020",
+                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
+                            "valid": true,
+                            "descendants": []
                         },
                         {
                             "id": "20199138",
@@ -5838,14 +5838,80 @@
         "buoy_wmoid": "45140",
         "buoy_lat": "50.800000",
         "buoy_long": "-96.733000",
-        "buoy_type": "default",
+        "buoy_type": "WK_WM500",
         "valid": false,
         "f_structure": {
             "id": "07-BUOY-XX-45140",
             "tech": "F0155",
             "desc": "LAKE WINNIPEG S. BASIN",
             "valid": true,
-            "descendants": []
+            "descendants": [
+                {
+                    "id": "20133252",
+                    "tech": "E5010",
+                    "desc": "AXYS,MOORED BUOY,1.7m WATCHKEEPER",
+                    "valid": true,
+                    "descendants": [
+                        {
+                            "id": "20175307",
+                            "tech": "E5020",
+                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20182811",
+                            "tech": "E5245",
+                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20225573",
+                            "tech": "E5435",
+                            "desc": "AXYS,WAVE SENSOR,TRIAXYS G3",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20236015",
+                            "tech": "E5095",
+                            "desc": "AXYS,SENSOR PROCESS. MOD,1.7M WK WM500",
+                            "valid": true,
+                            "descendants": [
+                                {
+                                    "id": "20015925",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20168407",
+                                    "tech": "E5300",
+                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20234280",
+                                    "tech": "E5385",
+                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
+                                    "valid": true,
+                                    "descendants": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20238319",
+                            "tech": "E5090",
+                            "desc": "AXYS,POWER DISTRIB. MOD,1.7m WK BUOY",
+                            "valid": true,
+                            "descendants": []
+                        }
+                    ]
+                }
+            ]
         },
         "characteristics": {
             "WMO ID": [
@@ -6061,6 +6127,17 @@
         },
         "work_orders": [
             [
+                "1028709",
+                "PM21",
+                "Buoy Deployment 2021 (45140)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20210526",
+                "20210526",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1024198",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -6072,6 +6149,17 @@
                 true
             ],
             [
+                "1010369",
+                "PM21",
+                "LOTW Buoy Overhaul May 2017",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20170502",
+                "20170504",
+                "MM-COST",
+                true
+            ],
+            [
                 "1022146",
                 "PM21",
                 "Buoy Retrieval 2019 L.Wpg S 45140",
@@ -6080,6 +6168,28 @@
                 "20191029",
                 "20191029",
                 "MM-PN10",
+                true
+            ],
+            [
+                "1022190",
+                "PM21",
+                "Buoy Retrieve/Inspect LOTW 45148 2019",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20191105",
+                "20191120",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1022433",
+                "PM21",
+                "Fall Inspection - LOTW (45148)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20191108",
+                "20191108",
+                "MM-PN30",
                 true
             ],
             [
@@ -6105,6 +6215,39 @@
                 true
             ],
             [
+                "1012856",
+                "PM21",
+                "Lake of the Woods Buoy Retrieval - Fall",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20171102",
+                "20171102",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1017912",
+                "PM21",
+                "Fall buoy retrieval",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20181031",
+                "20181031",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1020201",
+                "PM21",
+                "Buoy Deployment/Delivery",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190606",
+                "20190606",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1011581",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -6113,6 +6256,28 @@
                 "20180502",
                 "20180502",
                 "MM-PN30",
+                true
+            ],
+            [
+                "1011579",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20180419",
+                "20180419",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1015183",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190514",
+                "20190515",
+                "MM-COST",
                 true
             ],
             [
@@ -6125,6 +6290,83 @@
                 "",
                 "MM-PN10",
                 false
+            ],
+            [
+                "1008448",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20170503",
+                "20170504",
+                "MM-COST",
+                true
+            ],
+            [
+                "1007769",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160503",
+                "20160505",
+                "MM-COST",
+                true
+            ],
+            [
+                "1005072",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20150511",
+                "20150511",
+                "MM-COST",
+                true
+            ],
+            [
+                "1019328",
+                "PM21",
+                "Spring Deployment (45148)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20180612",
+                "20180612",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1019329",
+                "PM21",
+                "Fall Inspection (45148)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20181031",
+                "20181031",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1024152",
+                "PM21",
+                "Buoy Deployment (45140)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20200604",
+                "20200604",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1019997",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20200526",
+                "20200527",
+                "MM-PN30",
+                true
             ],
             [
                 "1026295",
@@ -6182,6 +6424,28 @@
                 true
             ],
             [
+                "1029429",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220419",
+                "20220419",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1033298",
+                "PM21",
+                "Buoy Drop off",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220525",
+                "20220525",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1030786",
                 "PM21",
                 "South Basin 45140 Retrieve + Post Season",
@@ -6216,7 +6480,10 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [],
+            "Functional Location Structure": [
+                "ERROR (Count Violation): Currently 0 E5430 are attached. Per standard there should be 1.",
+                "ERROR (Count Violation): Currently 0 E5450 are attached. Per standard there should be 1."
+            ],
             "Characteristics": [],
             "Work Orders": [
                 "1013861: Missing time confirmation on work order.",
@@ -6464,6 +6731,17 @@
                 "UNPL",
                 "20150611",
                 "20150611",
+                "MM-PN10",
+                true
+            ],
+            [
+                "1029546",
+                "PM21",
+                "Replaced RMY for Annual Maintenance",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220601",
+                "20220601",
                 "MM-PN10",
                 true
             ]
@@ -7232,14 +7510,87 @@
         "buoy_wmoid": "45144",
         "buoy_lat": "53.230000",
         "buoy_long": "-98.290000",
-        "buoy_type": "default",
+        "buoy_type": "WK_WM500",
         "valid": false,
         "f_structure": {
             "id": "07-BUOY-XX-45144",
             "tech": "F0155",
             "desc": "LAKE WINNIPEG N.",
             "valid": true,
-            "descendants": []
+            "descendants": [
+                {
+                    "id": "20133253",
+                    "tech": "E5010",
+                    "desc": "AXYS,MOORED BUOY,1.7m WATCHKEEPER",
+                    "valid": true,
+                    "descendants": [
+                        {
+                            "id": "20168129",
+                            "tech": "E5090",
+                            "desc": "AXYS,POWER DISTRIB. MOD,1.7m WK BUOY",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20175306",
+                            "tech": "E5020",
+                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20182950",
+                            "tech": "E5245",
+                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20231181",
+                            "tech": "E5430",
+                            "desc": "AXYS,WATER TEMPERATURE SENSOR,1.7m BUOY",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20250650",
+                            "tech": "E5095",
+                            "desc": "AXYS,SENSOR PROCESS. MOD,1.7M WK WM500",
+                            "valid": true,
+                            "descendants": [
+                                {
+                                    "id": "20250943",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20250955",
+                                    "tech": "E5385",
+                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20233444",
+                                    "tech": "E5300",
+                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
+                                    "valid": true,
+                                    "descendants": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20264353",
+                            "tech": "E5435",
+                            "desc": "AXYS,WAVE SENSOR,TRIAXYS G3",
+                            "valid": true,
+                            "descendants": []
+                        }
+                    ]
+                }
+            ]
         },
         "characteristics": {
             "WMO ID": [
@@ -7455,6 +7806,39 @@
         },
         "work_orders": [
             [
+                "1005427",
+                "PM21",
+                "Populate buoy 45145",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20160310",
+                "20160315",
+                "MM-COST",
+                true
+            ],
+            [
+                "1010389",
+                "PM21",
+                "L. WpgNorthBasin Buoy Overhaul May 2017",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20170501",
+                "20170530",
+                "MM-COST",
+                true
+            ],
+            [
+                "1010555",
+                "PM21",
+                "Lk Wpg North Spring deployment",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20170606",
+                "20170606",
+                "MM-COST",
+                true
+            ],
+            [
                 "1008047",
                 "PM21",
                 "Buoy retrieval",
@@ -7463,6 +7847,39 @@
                 "20161017",
                 "20161017",
                 "MM-PN10",
+                true
+            ],
+            [
+                "1020387",
+                "PM21",
+                "Buoy Deployment (45144)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20190718",
+                "20190718",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1021773",
+                "PM21",
+                "Buoy Retrieval 2019 L.Wpg N 45144",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20190927",
+                "20190927",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1022430",
+                "PM21",
+                "Fall Inspection - L. Wpg N 45144",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20191108",
+                "20191108",
+                "MM-PN30",
                 true
             ],
             [
@@ -7488,6 +7905,94 @@
                 true
             ],
             [
+                "1005070",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20150608",
+                "20150608",
+                "MM-COST",
+                true
+            ],
+            [
+                "1008447",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20170509",
+                "20170510",
+                "MM-COST",
+                true
+            ],
+            [
+                "1007767",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20161018",
+                "20161018",
+                "MM-COST",
+                true
+            ],
+            [
+                "1010539",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20180502",
+                "20180502",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1015182",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190418",
+                "20190418",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1007778",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20160509",
+                "20160509",
+                "MM-COST",
+                true
+            ],
+            [
+                "1019816",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20200603",
+                "20200603",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1020386",
+                "PM21",
+                "Replaced Sensor (45144)",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20190603",
+                "20190603",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1017700",
                 "PM21",
                 "Buoy Retrieval & Fall Inspection",
@@ -7496,6 +8001,28 @@
                 "20181102",
                 "20181102",
                 "MM-PN10",
+                true
+            ],
+            [
+                "1024263",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210610",
+                "20210610",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1029428",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220511",
+                "20220511",
+                "MM-PN30",
                 true
             ],
             [
@@ -7511,7 +8038,9 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [],
+            "Functional Location Structure": [
+                "ERROR (Count Violation): Currently 0 E5450 are attached. Per standard there should be 1."
+            ],
             "Characteristics": [],
             "Work Orders": [
                 "1019645: Missing time confirmation on work order.",
@@ -7526,14 +8055,80 @@
         "buoy_wmoid": "45145",
         "buoy_lat": "51.870000",
         "buoy_long": "-96.970000",
-        "buoy_type": "default",
+        "buoy_type": "WK_WM500",
         "valid": false,
         "f_structure": {
             "id": "07-BUOY-XX-45145",
             "tech": "F0155",
             "desc": "LAKE WINNIPEG NARROWS",
             "valid": true,
-            "descendants": []
+            "descendants": [
+                {
+                    "id": "20192383",
+                    "tech": "E5010",
+                    "desc": "AXYS,MOORED BUOY,1.7m WATCHKEEPER",
+                    "valid": true,
+                    "descendants": [
+                        {
+                            "id": "20250651",
+                            "tech": "E5095",
+                            "desc": "AXYS,SENSOR PROCESS. MOD,1.7M WK WM500",
+                            "valid": true,
+                            "descendants": [
+                                {
+                                    "id": "20250945",
+                                    "tech": "E5125",
+                                    "desc": "KVH,COMPASS,KVHC100 SE25",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20250957",
+                                    "tech": "E5385",
+                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
+                                    "valid": true,
+                                    "descendants": []
+                                },
+                                {
+                                    "id": "20013206",
+                                    "tech": "E5300",
+                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
+                                    "valid": true,
+                                    "descendants": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20264351",
+                            "tech": "E5435",
+                            "desc": "AXYS,WAVE SENSOR,TRIAXYS G3",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20175308",
+                            "tech": "E5020",
+                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20175312",
+                            "tech": "E5430",
+                            "desc": "AXYS,WATER TEMPERATURE SENSOR,1.7m BUOY",
+                            "valid": true,
+                            "descendants": []
+                        },
+                        {
+                            "id": "20182821",
+                            "tech": "E5245",
+                            "desc": "TIDELAND,OBSTRUCTION LIGHT,MLED-120E",
+                            "valid": true,
+                            "descendants": []
+                        }
+                    ]
+                }
+            ]
         },
         "characteristics": {
             "WMO ID": [
@@ -7826,6 +8421,17 @@
                 true
             ],
             [
+                "1024217",
+                "PM21",
+                "Buoy Deployment (45145)",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20200610",
+                "20200610",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1011576",
                 "PM22",
                 "E5010 Annual Inspection",
@@ -7845,6 +8451,17 @@
                 "20181012",
                 "20181012",
                 "MM-PN10",
+                true
+            ],
+            [
+                "1027792",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20210518",
+                "20210528",
+                "MM-PN30",
                 true
             ],
             [
@@ -7881,6 +8498,28 @@
                 true
             ],
             [
+                "1029435",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220421",
+                "20220421",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1030787",
+                "PM21",
+                "Narrows 45145 Retrieve +Post Season",
+                "TECO CNF  GMPS NMAT PRC",
+                "UNPL",
+                "20211026",
+                "20211029",
+                "MM-PN30",
+                true
+            ],
+            [
                 "1019646",
                 "PM22",
                 "F0155 Annual Inspection",
@@ -7893,7 +8532,9 @@
             ]
         ],
         "notes": {
-            "Functional Location Structure": [],
+            "Functional Location Structure": [
+                "ERROR (Count Violation): Currently 0 E5450 are attached. Per standard there should be 1."
+            ],
             "Characteristics": [],
             "Work Orders": [
                 "1008048: Missing full time confirmation on work order.",
@@ -8621,6 +9262,17 @@
                 "UNPL",
                 "20201027",
                 "20201027",
+                "MM-PN30",
+                true
+            ],
+            [
+                "1029434",
+                "PM22",
+                "E5010 Annual Inspection",
+                "TECO CNF  NMAT PRC",
+                "UNPL",
+                "20220601",
+                "20220601",
                 "MM-PN30",
                 true
             ],
@@ -15907,8 +16559,8 @@
         "buoy_name": "WEST SEA OTTER",
         "buoy_floc": "07-BUOY-XX-46204",
         "buoy_wmoid": "46204",
-        "buoy_lat": "51.384000",
-        "buoy_long": "-128.767000",
+        "buoy_lat": "51.403937",
+        "buoy_long": "-128.685083",
         "buoy_type": "3M_WM100",
         "valid": false,
         "f_structure": {

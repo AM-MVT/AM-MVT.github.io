@@ -258,9 +258,9 @@
         "properties": {
             "WMOID": "45140",
             "Name": "LAKE WINNIPEG S. BASIN",
-            "Buoy Type": "default",
+            "Buoy Type": "WK_WM500",
             "Valid": false,
-            "_flocstruct": true,
+            "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
         }
@@ -334,9 +334,9 @@
         "properties": {
             "WMOID": "45144",
             "Name": "LAKE WINNIPEG N.",
-            "Buoy Type": "default",
+            "Buoy Type": "WK_WM500",
             "Valid": false,
-            "_flocstruct": true,
+            "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
         }
@@ -353,9 +353,9 @@
         "properties": {
             "WMOID": "45145",
             "Name": "LAKE WINNIPEG NARROWS",
-            "Buoy Type": "default",
+            "Buoy Type": "WK_WM500",
             "Valid": false,
-            "_flocstruct": true,
+            "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
         }
@@ -764,8 +764,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -128.767,
-                51.384
+                -128.685083,
+                51.403937
             ]
         },
         "properties": {
