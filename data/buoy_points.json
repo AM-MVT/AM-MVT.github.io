@@ -391,9 +391,9 @@
         "properties": {
             "WMOID": "45148",
             "Name": "LAKE OF THE WOODS",
-            "Buoy Type": "default",
+            "Buoy Type": "WK_WM500",
             "Valid": false,
-            "_flocstruct": true,
+            "_flocstruct": false,
             "_characteristic": true,
             "_workorder": false
         }
