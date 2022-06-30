@@ -49,7 +49,7 @@
         "properties": {
             "WMOID": "4400490",
             "Name": "WEST BAY OF FUNDY",
-            "Buoy Type": "OPP_WM500",
+            "Buoy Type": "default",
             "Valid": true,
             "_flocstruct": true,
             "_characteristic": true,
