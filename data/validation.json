@@ -18149,138 +18149,14 @@
         "buoy_wmoid": "46208",
         "buoy_lat": "52.515000",
         "buoy_long": "-132.693000",
-        "buoy_type": "3M_WM100",
-        "valid": false,
+        "buoy_type": "default",
+        "valid": true,
         "f_structure": {
             "id": "07-BUOY-XX-46208",
             "tech": "F0155",
             "desc": "WEST MORESBY",
             "valid": true,
-            "descendants": [
-                {
-                    "id": "20133224",
-                    "tech": "E5010",
-                    "desc": "PROF COMPONENTS,MOORED BUOY,3M DISCUS",
-                    "valid": true,
-                    "descendants": [
-                        {
-                            "id": "20162218",
-                            "tech": "E5085",
-                            "desc": "XEOS,IRIDIUM BEACON,MELO",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20205898",
-                            "tech": "E5105",
-                            "desc": "AXYS,XMTR MODULE,3m & NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20013537",
-                                    "tech": "E5395",
-                                    "desc": "SUTRON,HDR XMTR,40W SATLINK2 SL2-B40W-1",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20162199",
-                                    "tech": "E5385",
-                                    "desc": "NAL,IRIDIUM SBD XCVR,9602",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20210857",
-                            "tech": "E5030",
-                            "desc": "HARSH/SYNERGETICS,ANT-GOES/ARGOS,14A-NS",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20231171",
-                            "tech": "E5020",
-                            "desc": "AXYS,AIR TEMPERATURE SENSOR,TAIR",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20013743",
-                            "tech": "E5430",
-                            "desc": "AXYS,WATER TEMPERATURE SENSOR,HATS",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20130728",
-                            "tech": "E5095",
-                            "desc": "AXYS,SENSOR PROCESS. MOD,3m & NOMAD BUO",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131416",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20131452",
-                                    "tech": "E5125",
-                                    "desc": "KVH,COMPASS,KVHC100 SE25",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20132553",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                },
-                                {
-                                    "id": "20132561",
-                                    "tech": "E5300",
-                                    "desc": "VAISALA,BAROMETER,PTB210B1T1B",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20131360",
-                            "tech": "E5110",
-                            "desc": "AXYS,WAVE MOD,1.7m WK/3m/6m NOMAD BUOY",
-                            "valid": true,
-                            "descendants": [
-                                {
-                                    "id": "20131031",
-                                    "tech": "E5435",
-                                    "desc": "JEWELL,WAVE SENSOR,LCM100",
-                                    "valid": true,
-                                    "descendants": []
-                                }
-                            ]
-                        },
-                        {
-                            "id": "20132906",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05106",
-                            "valid": true,
-                            "descendants": []
-                        },
-                        {
-                            "id": "20132909",
-                            "tech": "E5450",
-                            "desc": "RM YOUNG,WIND SENSOR,05106",
-                            "valid": true,
-                            "descendants": []
-                        }
-                    ]
-                }
-            ]
+            "descendants": []
         },
         "characteristics": {
             "WMO ID": [
@@ -18507,17 +18383,6 @@
                 true
             ],
             [
-                "1012265",
-                "PM21",
-                "Populate station",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20170824",
-                "20170824",
-                "MM-PY10",
-                true
-            ],
-            [
                 "1017968",
                 "PM21",
                 "installing/deinstalling wind sensor",
@@ -18538,39 +18403,6 @@
                 "20200619",
                 "MM-PY10",
                 true
-            ],
-            [
-                "1020512",
-                "PM21",
-                "Refurbishing buoy hull",
-                "TECO CNF  NMAT PRC",
-                "UNPL",
-                "20200624",
-                "20200624",
-                "MM-PY10",
-                true
-            ],
-            [
-                "1023044",
-                "PM21",
-                "Buoy overhaul",
-                "TECO CNF  GMPS NMAT PRC",
-                "UNPL",
-                "20200624",
-                "20200624",
-                "MM-PY10",
-                true
-            ],
-            [
-                "1006457",
-                "PM21",
-                "Populate Station",
-                "CLSD GMPS NMAT PRC",
-                "UNPL",
-                "",
-                "",
-                "MM-COST",
-                false
             ],
             [
                 "1005058",
@@ -18631,11 +18463,7 @@
         "notes": {
             "Functional Location Structure": [],
             "Characteristics": [],
-            "Work Orders": [
-                "1006457: Flag on work order do not reflect a properly closed or complete work order.",
-                "1006457: Missing actual start date.",
-                "1006457: Missing actual finish date."
-            ]
+            "Work Orders": []
         }
     }
 }
